@@ -1,5 +1,11 @@
 # cavida_bridge
 
+## 1.3.1
+
+- Elke geregistreerde resource print bij de eerste geslaagde updatecontrole UP-TO-DATE met de actuele manifestversie.
+- Periodieke controles herhalen een ongewijzigde status niet; cavida_updates toont de status altijd.
+- Een lokale versie die hoger is dan de openbare release krijgt een eigen melding en wordt niet als nieuwste release aangeduid.
+
 ## 1.3.0
 
 - Gedeelde laptop-/appbridge met automatische optionele AV Laptop-integratie.
