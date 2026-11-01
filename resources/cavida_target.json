@@ -2,6 +2,14 @@
   "resource": "cavida_target",
   "releases": [
     {
+      "version": "1.0.1",
+      "changes": [
+        "Filter invalid world-geometry and streaming entity handles before reading models.",
+        "Catch model-native failures so they do not terminate the target loop.",
+        "Reset raycast state when closing so repeated Alt activations start cleanly."
+      ]
+    },
+    {
       "version": "1.0.0",
       "changes": [
         "New Cavida interface with proximity dots, compact action menu, scroll selection and optional mouse control.",
@@ -10,7 +18,7 @@
       ]
     }
   ],
-  "version": "1.0.0",
+  "version": "1.0.1",
   "url": "https://github.com/Cavida-studios/updates/blob/main/changelogs/cavida_target.md",
   "download": "https://portal.cfx.re/assets/granted-assets"
 }
