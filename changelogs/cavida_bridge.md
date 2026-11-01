@@ -1,5 +1,10 @@
 # cavida_bridge
 
+## 1.4.5
+
+- Prefer cavida_target during automatic target provider detection.
+- Use the existing compatible target exports for interaction registration and cleanup.
+
 ## 1.4.4
 
 - Update notices direct users to the Cfx.re Portal (Purchased Assets) without printing repository, API, raw, download or changelog URLs.
