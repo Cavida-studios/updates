@@ -2,6 +2,14 @@
   "resource": "cavida_target",
   "releases": [
     {
+      "version": "1.2.1",
+      "changes": [
+        "Execute the selected target action with E, alongside the existing left-click selection.",
+        "Support E while the menu has mouse focus and prevent repeated keyboard activation.",
+        "Suppress native pickup/context controls while targeting; preserve floating markers and wave animations."
+      ]
+    },
+    {
       "version": "1.2.0",
       "changes": [
         "Add subtle Cavida wave animations to the active reticle and gently floating proximity markers.",
@@ -42,7 +50,7 @@
       ]
     }
   ],
-  "version": "1.2.0",
+  "version": "1.2.1",
   "url": "https://github.com/Cavida-studios/updates/blob/main/changelogs/cavida_target.md",
   "download": "https://portal.cfx.re/assets/granted-assets"
 }

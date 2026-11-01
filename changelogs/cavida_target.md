@@ -1,5 +1,11 @@
 # cavida_target
 
+## 1.2.1
+
+- Execute the selected target action with E, alongside the existing left-click selection.
+- Support E while the menu has mouse focus and prevent repeated keyboard activation.
+- Suppress native pickup/context controls while targeting; preserve floating markers and wave animations.
+
 ## 1.2.0
 
 - Add subtle Cavida wave animations to the active reticle and gently floating proximity markers.
