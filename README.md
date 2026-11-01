@@ -7,6 +7,8 @@ Openbaar versieregister voor Cavida-resources. Deze repository bevat uitsluitend
 - [cavida_bridge](changelogs/cavida_bridge.md) — gedeelde frameworkbridge en updatechecker.
 - [davidcrypto](changelogs/davidcrypto.md) — mining, hardware, warehouses en wallets voor Oosterberg roleplay.
 
+- [cavida_prison](changelogs/cavida_prison.md) — gevangenisbeheer, deurkoppelingen, camera’s en kantineactiviteiten.
+
 ## Voor serverbeheerders
 
 Start cavida_bridge vóór de aangesloten resources. De bridge meldt beschikbare updates in de serverconsole, met de wijzigingen sinds je geïnstalleerde versie en een downloadlink. Controleer handmatig via cavida_updates of cavida_updates davidcrypto. Automatische controles vinden bij starten en iedere zes uur plaats. Er worden geen updates automatisch geïnstalleerd. Tokens zijn niet nodig op de gameserver.
