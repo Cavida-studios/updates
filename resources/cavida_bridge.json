@@ -1,9 +1,16 @@
 {
   "resource": "cavida_bridge",
-  "version": "1.4.3",
+  "version": "1.4.4",
   "url": "https://github.com/Cavida-studios/updates/blob/main/changelogs/cavida_bridge.md",
-  "download": "https://github.com/Cavida-studios/cavida_bridge/releases/latest",
+  "download": "https://portal.cfx.re/assets/granted-assets",
   "releases": [
+    {
+      "version": "1.4.4",
+      "changes": [
+        "Update notices direct users to the Cfx.re Portal (Purchased Assets) without printing repository, API, raw, download or changelog URLs.",
+        "Shared Cavida logging redacts repository URLs in diagnostic messages, external errors and update changelog text."
+      ]
+    },
     {
       "version": "1.4.3",
       "changes": [
