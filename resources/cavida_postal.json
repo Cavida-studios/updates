@@ -1,0 +1,15 @@
+{
+  "resource": "cavida_postal",
+  "version": "1.0.1",
+  "url": "https://github.com/Cavida-studios/updates/blob/main/changelogs/cavida_postal.md",
+  "download": "https://github.com/Cavida-studios/cavida_postal/releases/latest",
+  "releases": [
+    {
+      "version": "1.0.1",
+      "changes": [
+        "Use Cavida branding throughout the portal, HUD, map labels and resource metadata.",
+        "Remove development files, test fixtures and browser preview mode from the resource repository."
+      ]
+    }
+  ]
+}
