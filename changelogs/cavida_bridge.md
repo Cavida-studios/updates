@@ -1,5 +1,11 @@
 # cavida_bridge
 
+## 1.4.2
+
+- Read public version metadata through the unauthenticated GitHub Contents API using its raw JSON media type, avoiding stale branch snapshots served by the GitHub Raw CDN.
+- Retain cache-control headers, per-request URLs, manual source/path/version diagnostics and protected HTTP error handling.
+- HTTP errors and API rate limits report an unavailable check, never a false up-to-date result.
+
 ## 1.4.1
 
 - Each update request now uses a unique cache-busting URL and no-cache headers to avoid reusing stale version metadata.
