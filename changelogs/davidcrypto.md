@@ -1,5 +1,14 @@
 # davidcrypto
 
+## 6.4.0
+
+- AV Laptop is optioneel: automatische appregistratie via cavida_bridge of los venster met /davidcrypto en OpenApp-export.
+- Vereist cavida_bridge 1.3.0: framework, inventory, bank, apparaatcontrole en netwerken lopen via de gedeelde bridge.
+- Qbox, QBCore, ESX en standalone via bridgeadapters; AK47 optioneel met native bank als alternatief.
+- K4MB1 is optioneel: GTA-kasten, modules en randapparaten als reserve; bestaande racks/coins blijven behouden.
+- Hardware gebruiken via inventory, framework-usable callbacks of het F7-menu binnen je warehouse.
+- Installatievoorbeelden voor ox_inventory, QBCore en ESX; Escape en sluitknop voor het losse appvenster.
+
 ## 6.3.0
 
 - Gedeelde Cavida-bridge updatechecker: nieuwe versies, changelog en downloadlink in de serverconsole.
