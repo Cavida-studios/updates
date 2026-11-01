@@ -1,5 +1,12 @@
 # cavida_bridge
 
+## 1.4.0
+
+- Central vehicle key integration for fourteen providers, including ak47_vehiclekeys and ak47_qb_vehiclekeys.
+- Added trusted GiveVehicleKeys, RemoveVehicleKeys, HasVehicleKeys and provider diagnostics with validation, deduplication and protected calls.
+- AK47 supports virtual and physical keys through a bounded, allowlisted client relay; other integrations use native server APIs or documented events.
+- Added key-provider regression tests and GitHub Actions; in-game provider acceptance remains pending.
+
 ## 1.3.2
 
 - All update-checker status messages, warnings and registration errors are now in English.
