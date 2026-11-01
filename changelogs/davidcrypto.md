@@ -1,0 +1,9 @@
+# davidcrypto
+
+## 6.3.0
+
+- Gedeelde Cavida-bridge updatechecker: nieuwe versies, changelog en downloadlink in de serverconsole.
+- Registratie via cavida_bridge:RegisterResource; automatische controle en consolecommand cavida_updates.
+- Aan/uit-status blijft behouden bij uitloggen en server- of resource-restarts; verlopen internet wordt automatisch verlengd.
+- Online opbrengst blijft 100%, offline opbrengst 40% zolang de server draait.
+- Installatiepakket bevat alleen resource, gebouwde UI en installatiebestanden.
