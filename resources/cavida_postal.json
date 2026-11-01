@@ -1,9 +1,16 @@
 {
   "resource": "cavida_postal",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "url": "https://github.com/Cavida-studios/updates/blob/main/changelogs/cavida_postal.md",
-  "download": "https://github.com/Cavida-studios/cavida_postal/releases/latest",
+  "download": "https://portal.cfx.re/assets/granted-assets",
   "releases": [
+    {
+      "version": "1.0.2",
+      "changes": [
+        "Use shared Cavida logging to keep repository URLs out of all console and error output.",
+        "Require cavida_bridge 1.4.4 or newer for shared log filtering."
+      ]
+    },
     {
       "version": "1.0.1",
       "changes": [
