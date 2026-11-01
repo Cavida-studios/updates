@@ -7,22 +7,22 @@
     {
       "version": "6.4.0",
       "changes": [
-        "AV Laptop is optioneel: automatische appregistratie via cavida_bridge of los venster met /davidcrypto en OpenApp-export.",
-        "Vereist cavida_bridge 1.3.0: framework, inventory, bank, apparaatcontrole en netwerken lopen via de gedeelde bridge.",
-        "Qbox, QBCore, ESX en standalone via bridgeadapters; AK47 optioneel met native bank als alternatief.",
-        "K4MB1 is optioneel: GTA-kasten, modules en randapparaten als reserve; bestaande racks/coins blijven behouden.",
-        "Hardware gebruiken via inventory, framework-usable callbacks of het F7-menu binnen je warehouse.",
-        "Installatievoorbeelden voor ox_inventory, QBCore en ESX; Escape en sluitknop voor het losse appvenster."
+        "AV Laptop is optional: automatic app registration through cavida_bridge or a standalone window using /davidcrypto and the OpenApp export.",
+        "Requires cavida_bridge 1.3.0: framework, inventory, banking, device access and networks are handled by the shared bridge.",
+        "Supports Qbox, QBCore, ESX and standalone through bridge adapters; AK47 is optional with native banking as an alternative.",
+        "K4MB1 is optional: GTA cabinets, hardware proxies and peripherals provide backup visuals while preserving existing racks and coins.",
+        "Use hardware through inventory, framework usable-item callbacks or the F7 menu inside your warehouse.",
+        "Installation examples for ox_inventory, QBCore and ESX; Escape and a close button for the standalone window."
       ]
     },
     {
       "version": "6.3.0",
       "changes": [
-        "Gedeelde Cavida-bridge updatechecker: nieuwe versies, changelog en downloadlink in de serverconsole.",
-        "Registratie via cavida_bridge:RegisterResource; automatische controle en consolecommand cavida_updates.",
-        "Aan/uit-status blijft behouden bij uitloggen en server- of resource-restarts; verlopen internet wordt automatisch verlengd.",
-        "Online opbrengst blijft 100%, offline opbrengst 40% zolang de server draait.",
-        "Installatiepakket bevat alleen resource, gebouwde UI en installatiebestanden."
+        "Shared Cavida bridge update checker: new versions, changelogs and download links in the server console.",
+        "Register through cavida_bridge:RegisterResource; automatic checks and the cavida_updates console command.",
+        "Power state survives logout and server/resource restarts; expired internet contracts renew automatically.",
+        "Online earnings remain at 100%, offline earnings at 40% while the server is running.",
+        "Installation ZIP contains only the resource, compiled UI and installation files."
       ]
     }
   ]
