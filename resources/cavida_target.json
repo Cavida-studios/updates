@@ -2,6 +2,14 @@
   "resource": "cavida_target",
   "releases": [
     {
+      "version": "1.0.2",
+      "changes": [
+        "Register ox_target, qb-target and qtarget compatibility exports before loading the interaction runtime.",
+        "Prevent duplicate export handlers when runtime control exports are added.",
+        "Correct installation order: start cavida_bridge and cavida_target before ox_inventory, the framework and target consumers."
+      ]
+    },
+    {
       "version": "1.0.1",
       "changes": [
         "Filter invalid world-geometry and streaming entity handles before reading models.",
@@ -18,7 +26,7 @@
       ]
     }
   ],
-  "version": "1.0.1",
+  "version": "1.0.2",
   "url": "https://github.com/Cavida-studios/updates/blob/main/changelogs/cavida_target.md",
   "download": "https://portal.cfx.re/assets/granted-assets"
 }

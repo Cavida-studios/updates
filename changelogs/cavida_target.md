@@ -1,5 +1,11 @@
 # cavida_target
 
+## 1.0.2
+
+- Register ox_target, qb-target and qtarget compatibility exports before loading the interaction runtime.
+- Prevent duplicate export handlers when runtime control exports are added.
+- Correct installation order: start cavida_bridge and cavida_target before ox_inventory, the framework and target consumers.
+
 ## 1.0.1
 
 - Filter invalid world-geometry and streaming entity handles before reading models.
