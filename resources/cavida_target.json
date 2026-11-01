@@ -2,6 +2,14 @@
   "resource": "cavida_target",
   "releases": [
     {
+      "version": "1.1.0",
+      "changes": [
+        "Replace the large interaction panel with compact floating action rows beside a small diamond reticle.",
+        "Remove the title, counters, distance badge and persistent control banners from the target UI.",
+        "Use subtle proximity dots and a configurable mint accent while retaining existing target exports and interaction behavior."
+      ]
+    },
+    {
       "version": "1.0.2",
       "changes": [
         "Register ox_target, qb-target and qtarget compatibility exports before loading the interaction runtime.",
@@ -26,7 +34,7 @@
       ]
     }
   ],
-  "version": "1.0.2",
+  "version": "1.1.0",
   "url": "https://github.com/Cavida-studios/updates/blob/main/changelogs/cavida_target.md",
   "download": "https://portal.cfx.re/assets/granted-assets"
 }

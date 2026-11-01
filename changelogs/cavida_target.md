@@ -1,5 +1,11 @@
 # cavida_target
 
+## 1.1.0
+
+- Replace the large interaction panel with compact floating action rows beside a small diamond reticle.
+- Remove the title, counters, distance badge and persistent control banners from the target UI.
+- Use subtle proximity dots and a configurable mint accent while retaining existing target exports and interaction behavior.
+
 ## 1.0.2
 
 - Register ox_target, qb-target and qtarget compatibility exports before loading the interaction runtime.
