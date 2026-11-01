@@ -1,5 +1,10 @@
 # cavida_bridge
 
+## 1.3.2
+
+- All update-checker status messages, warnings and registration errors are now in English.
+- Public changelog history for the bridge and davidcrypto is now available in English.
+
 ## 1.3.1
 
 - Each registered resource prints UP-TO-DATE with its installed version after the first successful check.
