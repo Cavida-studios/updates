@@ -1,5 +1,11 @@
 # cavida_target
 
+## 1.2.0
+
+- Add subtle Cavida wave animations to the active reticle and gently floating proximity markers.
+- Position entity markers above model bounds and follow moving targeted objects, vehicles and peds.
+- Preserve marker identities across updates and support animation settings and reduced motion.
+
 ## 1.1.0
 
 - Replace the large interaction panel with compact floating action rows beside a small diamond reticle.

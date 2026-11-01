@@ -2,6 +2,14 @@
   "resource": "cavida_target",
   "releases": [
     {
+      "version": "1.2.0",
+      "changes": [
+        "Add subtle Cavida wave animations to the active reticle and gently floating proximity markers.",
+        "Position entity markers above model bounds and follow moving targeted objects, vehicles and peds.",
+        "Preserve marker identities across updates and support animation settings and reduced motion."
+      ]
+    },
+    {
       "version": "1.1.0",
       "changes": [
         "Replace the large interaction panel with compact floating action rows beside a small diamond reticle.",
@@ -34,7 +42,7 @@
       ]
     }
   ],
-  "version": "1.1.0",
+  "version": "1.2.0",
   "url": "https://github.com/Cavida-studios/updates/blob/main/changelogs/cavida_target.md",
   "download": "https://portal.cfx.re/assets/granted-assets"
 }
