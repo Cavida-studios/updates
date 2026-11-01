@@ -1,5 +1,10 @@
 # cavida_bridge
 
+## 1.4.4
+
+- Update notices direct users to the Cfx.re Portal (Purchased Assets) without printing repository, API, raw, download or changelog URLs.
+- Shared Cavida logging redacts repository URLs in diagnostic messages, external errors and update changelog text.
+
 ## 1.4.3
 
 - Keep the GitHub repository limited to the installable Cavida resource and installation/release documentation.
