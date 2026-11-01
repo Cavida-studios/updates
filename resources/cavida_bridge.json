@@ -1,9 +1,17 @@
 {
   "resource": "cavida_bridge",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "url": "https://github.com/Cavida-studios/updates/blob/main/changelogs/cavida_bridge.md",
   "download": "https://github.com/Cavida-studios/cavida_bridge/releases/latest",
   "releases": [
+    {
+      "version": "1.4.1",
+      "changes": [
+        "Each update request now uses a unique cache-busting URL and no-cache headers to avoid reusing stale version metadata.",
+        "Manual checks print the installed version, exact metadata URL, actual resource directory and received published version for diagnosis.",
+        "Regression coverage reproduces an installed 1.3.2 receiving stale metadata and then correctly detecting a fresh 1.4.1 response."
+      ]
+    },
     {
       "version": "1.4.0",
       "changes": [
