@@ -1,5 +1,11 @@
 # cavida_bridge
 
+## 1.4.1
+
+- Each update request now uses a unique cache-busting URL and no-cache headers to avoid reusing stale version metadata.
+- Manual checks print the installed version, exact metadata URL, actual resource directory and received published version for diagnosis.
+- Regression coverage reproduces an installed 1.3.2 receiving stale metadata and then correctly detecting a fresh 1.4.1 response.
+
 ## 1.4.0
 
 - Central vehicle key integration for fourteen providers, including ak47_vehiclekeys and ak47_qb_vehiclekeys.
