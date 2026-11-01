@@ -1,11 +1,11 @@
 {
   "resource": "cavida_bridge",
-  "version": "1.4.2",
+  "version": "1.4.3",
   "url": "https://github.com/Cavida-studios/updates/blob/main/changelogs/cavida_bridge.md",
   "download": "https://github.com/Cavida-studios/cavida_bridge/releases/latest",
   "releases": [
     {
-      "version": "1.4.2",
+      "version": "1.4.3",
       "changes": [
         "Read public version metadata through the unauthenticated GitHub Contents API using its raw JSON media type, avoiding stale branch snapshots served by the GitHub Raw CDN.",
         "Retain cache-control headers, per-request URLs, manual source/path/version diagnostics and protected HTTP error handling.",
