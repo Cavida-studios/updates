@@ -1,5 +1,12 @@
 # cavida_laptop
 
+## 0.6.0 — testrelease
+
+- Centrale interne mail koppelt laptopaccounts aan werkmail en gedeelde jobpostvakken.
+- Gedeelde afzenders en postvakken worden bij ieder verzoek gecontroleerd; berichten en leesstatus zijn consistent.
+- Bestaande laptopmail wordt zonder dubbele berichten overgenomen en de brondata blijft behouden.
+- DUI-wereldschermen met lokale laptopprop, afstandsbeheer, opruimen en in-game afstelling per computermodel.
+
 ## 0.5.3 — testrelease
 
 - Iframe-apps wachten op gecontroleerde gereedmelding voordat de sessietoken wordt verstuurd.

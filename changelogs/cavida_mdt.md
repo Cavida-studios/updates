@@ -1,5 +1,12 @@
 # cavida_mdt
 
+## 0.4.0 — testrelease
+
+- Automatische characteradressen zoals j.devries@police.com; medewerkers kiezen uitsluitend hun eigen wachtwoord.
+- Werkmail en laptopmail gebruiken dezelfde interne berichten; iedere job krijgt info en echte bazen krijgen management.
+- Oude adressen en berichten blijven binnen de bijbehorende dienst behouden; managment werkt als management-alias.
+- De externe website bevat geen livemap of kaartdownloads meer; de in-game kaart en portobediening blijven beschikbaar.
+
 ## 0.3.2 — testrelease
 
 - Herstel van browserverbindingen die na het eerste antwoord vastlopen op de gamepoort.

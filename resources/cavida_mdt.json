@@ -3,12 +3,14 @@
   "status": "testing",
   "releases": [],
   "testingRelease": {
-    "version": "0.3.2",
-    "tag": "v0.3.2",
+    "version": "0.4.0",
+    "tag": "v0.4.0",
     "prerelease": true,
     "changes": [
-      "Herstel van browserverbindingen die na het eerste antwoord vastlopen op de gamepoort.",
-      "HTTP-antwoorden sluiten de verbinding expliciet; gecomprimeerde assets en versiecache blijven actief."
+      "Automatische characteradressen zoals j.devries@police.com; medewerkers kiezen uitsluitend hun eigen wachtwoord.",
+      "Werkmail en laptopmail gebruiken dezelfde interne berichten; iedere job krijgt info en echte bazen krijgen management.",
+      "Oude adressen en berichten blijven binnen de bijbehorende dienst behouden; managment werkt als management-alias.",
+      "De externe website bevat geen livemap of kaartdownloads meer; de in-game kaart en portobediening blijven beschikbaar."
     ]
   }
 }

@@ -3,12 +3,14 @@
   "status": "testing",
   "releases": [],
   "testingRelease": {
-    "version": "0.5.3",
-    "tag": "v0.5.3",
+    "version": "0.6.0",
+    "tag": "v0.6.0",
     "prerelease": true,
     "changes": [
-      "Iframe-apps wachten op gecontroleerde gereedmelding voordat de sessietoken wordt verstuurd.",
-      "Bestaande appvensters behouden hun sessie bij opnieuw openen."
+      "Centrale interne mail koppelt laptopaccounts aan werkmail en gedeelde jobpostvakken.",
+      "Gedeelde afzenders en postvakken worden bij ieder verzoek gecontroleerd; berichten en leesstatus zijn consistent.",
+      "Bestaande laptopmail wordt zonder dubbele berichten overgenomen en de brondata blijft behouden.",
+      "DUI-wereldschermen met lokale laptopprop, afstandsbeheer, opruimen en in-game afstelling per computermodel."
     ]
   }
 }

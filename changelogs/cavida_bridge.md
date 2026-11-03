@@ -1,5 +1,9 @@
 # cavida_bridge
 
+## 1.4.7 — testrelease
+
+- PlayerData levert de server-side character-voornaam, achternaam en echte baasstatus voor afgeschermde werkmail.
+
 ## 1.4.6 — testrelease
 
 - Testrelease voor in-game validatie.
