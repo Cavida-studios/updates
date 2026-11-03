@@ -3,14 +3,14 @@
   "status": "testing",
   "releases": [],
   "testingRelease": {
-    "version": "0.2.0",
-    "tag": "v0.2.0",
+    "version": "0.2.1",
+    "tag": "v0.2.1",
     "prerelease": true,
     "changes": [
-      "Testrelease voor in-game en tRadio-validatie.",
-      "Tegelinterface met meldkamer, OneSync-livemap en tRadio-bediening.",
-      "Persoonsgebonden werkmail en uitsluitend eigen in-game wachtwoordbeheer.",
-      "Extern portaal op de serverpoort met actuele politierolcontrole per verzoek."
+      "Herstel van de iframe-handshake en de sleepbediening van de livekaart.",
+      "Zakelijke Cavida-overheidsstijl met dienstentegels en leesbare formulieren.",
+      "Externe inlogpagina blijft bereikbaar tijdens database-opstart en toont de portaalstatus.",
+      "Kaarttegels laden buiten de game gespreid om de FXServer-requestlimiet te respecteren."
     ]
   }
 }

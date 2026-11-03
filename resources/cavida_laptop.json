@@ -3,14 +3,12 @@
   "status": "testing",
   "releases": [],
   "testingRelease": {
-    "version": "0.5.2",
-    "tag": "v0.5.2",
+    "version": "0.5.3",
+    "tag": "v0.5.3",
     "prerelease": true,
     "changes": [
-      "Testrelease voor in-game validatie.",
-      "Cavida React-desktop met unieke laptop-, USB- en 4G-dockmetadata.",
-      "Internetabonnementen, modeminstallatie, blijvende wifi en databundels.",
-      "Externe app-export met FiveM-functiereferenties en zichtbare MEOS-launcher."
+      "Iframe-apps wachten op gecontroleerde gereedmelding voordat de sessietoken wordt verstuurd.",
+      "Bestaande appvensters behouden hun sessie bij opnieuw openen."
     ]
   }
 }

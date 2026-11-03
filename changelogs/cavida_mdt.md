@@ -1,5 +1,12 @@
 # cavida_mdt
 
+## 0.2.1 — testrelease
+
+- Herstel van de iframe-handshake en de sleepbediening van de livekaart.
+- Zakelijke Cavida-overheidsstijl met dienstentegels en leesbare formulieren.
+- Externe inlogpagina blijft bereikbaar tijdens database-opstart en toont de portaalstatus.
+- Kaarttegels laden buiten de game gespreid om de FXServer-requestlimiet te respecteren.
+
 ## 0.2.0 — testrelease
 
 - Testrelease voor in-game en tRadio-validatie.
