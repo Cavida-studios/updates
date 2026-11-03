@@ -3,14 +3,15 @@
   "status": "testing",
   "releases": [],
   "testingRelease": {
-    "version": "0.2.1",
-    "tag": "v0.2.1",
+    "version": "0.3.0",
+    "tag": "v0.3.0",
     "prerelease": true,
     "changes": [
-      "Herstel van de iframe-handshake en de sleepbediening van de livekaart.",
-      "Zakelijke Cavida-overheidsstijl met dienstentegels en leesbare formulieren.",
-      "Externe inlogpagina blijft bereikbaar tijdens database-opstart en toont de portaalstatus.",
-      "Kaarttegels laden buiten de game gespreid om de FXServer-requestlimiet te respecteren."
+      "Cavida Overheid met afzonderlijke werkruimtes voor ambulance, brandweer, rechtbank, Openbaar Ministerie, advocatuur en gemeente.",
+      "Dienst- en ranggebonden dossiers, wijzigingshistorie, werkmail, livekaart en optionele tRadio-bediening.",
+      "Openbare startpagina met vacatures en wetboek, sollicitaties en persoonsgerichte rechtbankberichten.",
+      "Discord-codeflow met dezelfde store-applicatie, servergeverifieerde characterkoppelingen en afgeschermde burgersessies.",
+      "Diensten, toegangsrollen, dossiertypen, frequenties en publicaties zijn in-game te beheren."
     ]
   }
 }

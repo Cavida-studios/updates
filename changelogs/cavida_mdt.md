@@ -1,5 +1,13 @@
 # cavida_mdt
 
+## 0.3.0 — testrelease
+
+- Cavida Overheid met afzonderlijke werkruimtes voor ambulance, brandweer, rechtbank, Openbaar Ministerie, advocatuur en gemeente.
+- Dienst- en ranggebonden dossiers, wijzigingshistorie, werkmail, livekaart en optionele tRadio-bediening.
+- Openbare startpagina met vacatures en wetboek, sollicitaties en persoonsgerichte rechtbankberichten.
+- Discord-codeflow met dezelfde store-applicatie, servergeverifieerde characterkoppelingen en afgeschermde burgersessies.
+- Diensten, toegangsrollen, dossiertypen, frequenties en publicaties zijn in-game te beheren.
+
 ## 0.2.1 — testrelease
 
 - Herstel van de iframe-handshake en de sleepbediening van de livekaart.
