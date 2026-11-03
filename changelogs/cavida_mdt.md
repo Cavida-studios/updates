@@ -1,5 +1,10 @@
 # cavida_mdt
 
+## 0.3.2 — testrelease
+
+- Herstel van browserverbindingen die na het eerste antwoord vastlopen op de gamepoort.
+- HTTP-antwoorden sluiten de verbinding expliciet; gecomprimeerde assets en versiecache blijven actief.
+
 ## 0.3.1 — testrelease
 
 - Herstel van vastlopende grote websitebestanden via gecomprimeerde, begrensde overdrachten op de gamepoort.

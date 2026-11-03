@@ -3,14 +3,12 @@
   "status": "testing",
   "releases": [],
   "testingRelease": {
-    "version": "0.3.1",
-    "tag": "v0.3.1",
+    "version": "0.3.2",
+    "tag": "v0.3.2",
     "prerelease": true,
     "changes": [
-      "Herstel van vastlopende grote websitebestanden via gecomprimeerde, begrensde overdrachten op de gamepoort.",
-      "Versiegebonden browsercache voor openbare code, stijlen en kaarttegels; servercache voorkomt herhaald bestand lezen.",
-      "Kleine assetverzoeken worden gespreid om de native HTTP-requestlimiet te respecteren.",
-      "Inloggen, dossiers en andere persoonlijke API-antwoorden blijven buiten de publieke assetcache."
+      "Herstel van browserverbindingen die na het eerste antwoord vastlopen op de gamepoort.",
+      "HTTP-antwoorden sluiten de verbinding expliciet; gecomprimeerde assets en versiecache blijven actief."
     ]
   }
 }
