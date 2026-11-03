@@ -3,14 +3,14 @@
   "status": "testing",
   "releases": [],
   "testingRelease": {
-    "version": "0.4.0",
-    "tag": "v0.4.0",
+    "version": "0.4.1",
+    "tag": "v0.4.1",
     "prerelease": true,
     "changes": [
-      "Automatische characteradressen zoals j.devries@police.com; medewerkers kiezen uitsluitend hun eigen wachtwoord.",
-      "Werkmail en laptopmail gebruiken dezelfde interne berichten; iedere job krijgt info en echte bazen krijgen management.",
-      "Oude adressen en berichten blijven binnen de bijbehorende dienst behouden; managment werkt als management-alias.",
-      "De externe website bevat geen livemap of kaartdownloads meer; de in-game kaart en portobediening blijven beschikbaar."
+      "Zoekacties en andere leesverzoeken wachten niet meer op achtergrondverkeer of schrijfverzoeken; dubbele lopende leesverzoeken worden samengevoegd.",
+      "Grote API-antwoorden worden via kleine, sessiegebonden delen opgehaald om vastlopende antwoorden op de native gamepoort te voorkomen.",
+      "Online charactercontrole gebruikt een gecontroleerde bronkoppeling en blijft bij ieder verzoek de actuele frameworkrol controleren.",
+      "Zoekscherm toont voortgang en legt het minimum van twee zoektekens uit; achtergrondvernieuwing stapelt niet op."
     ]
   }
 }

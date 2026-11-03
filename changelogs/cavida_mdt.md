@@ -1,5 +1,13 @@
 # cavida_mdt
 
+## 0.4.1 — testrelease
+
+- Zoekacties en andere leesverzoeken wachten niet meer op achtergrondverkeer of schrijfverzoeken; dubbele lopende leesverzoeken worden samengevoegd.
+- Grote API-antwoorden worden via kleine, sessiegebonden delen opgehaald om vastlopende antwoorden op de native gamepoort te voorkomen.
+- Online charactercontrole gebruikt een gecontroleerde bronkoppeling en blijft bij ieder verzoek de actuele frameworkrol controleren.
+- Zoekscherm toont voortgang en legt het minimum van twee zoektekens uit; achtergrondvernieuwing stapelt niet op.
+
+
 ## 0.4.0 — testrelease
 
 - Automatische characteradressen zoals j.devries@police.com; medewerkers kiezen uitsluitend hun eigen wachtwoord.
