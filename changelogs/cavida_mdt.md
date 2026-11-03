@@ -1,5 +1,12 @@
 # cavida_mdt
 
+## 0.3.1 — testrelease
+
+- Herstel van vastlopende grote websitebestanden via gecomprimeerde, begrensde overdrachten op de gamepoort.
+- Versiegebonden browsercache voor openbare code, stijlen en kaarttegels; servercache voorkomt herhaald bestand lezen.
+- Kleine assetverzoeken worden gespreid om de native HTTP-requestlimiet te respecteren.
+- Inloggen, dossiers en andere persoonlijke API-antwoorden blijven buiten de publieke assetcache.
+
 ## 0.3.0 — testrelease
 
 - Cavida Overheid met afzonderlijke werkruimtes voor ambulance, brandweer, rechtbank, Openbaar Ministerie, advocatuur en gemeente.

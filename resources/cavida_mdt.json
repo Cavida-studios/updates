@@ -3,15 +3,14 @@
   "status": "testing",
   "releases": [],
   "testingRelease": {
-    "version": "0.3.0",
-    "tag": "v0.3.0",
+    "version": "0.3.1",
+    "tag": "v0.3.1",
     "prerelease": true,
     "changes": [
-      "Cavida Overheid met afzonderlijke werkruimtes voor ambulance, brandweer, rechtbank, Openbaar Ministerie, advocatuur en gemeente.",
-      "Dienst- en ranggebonden dossiers, wijzigingshistorie, werkmail, livekaart en optionele tRadio-bediening.",
-      "Openbare startpagina met vacatures en wetboek, sollicitaties en persoonsgerichte rechtbankberichten.",
-      "Discord-codeflow met dezelfde store-applicatie, servergeverifieerde characterkoppelingen en afgeschermde burgersessies.",
-      "Diensten, toegangsrollen, dossiertypen, frequenties en publicaties zijn in-game te beheren."
+      "Herstel van vastlopende grote websitebestanden via gecomprimeerde, begrensde overdrachten op de gamepoort.",
+      "Versiegebonden browsercache voor openbare code, stijlen en kaarttegels; servercache voorkomt herhaald bestand lezen.",
+      "Kleine assetverzoeken worden gespreid om de native HTTP-requestlimiet te respecteren.",
+      "Inloggen, dossiers en andere persoonlijke API-antwoorden blijven buiten de publieke assetcache."
     ]
   }
 }
