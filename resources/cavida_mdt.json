@@ -1,6 +1,16 @@
 {
   "resource": "cavida_mdt",
-  "developmentVersion": "0.2.0",
-  "status": "development",
-  "releases": []
+  "status": "testing",
+  "releases": [],
+  "testingRelease": {
+    "version": "0.2.0",
+    "tag": "v0.2.0",
+    "prerelease": true,
+    "changes": [
+      "Testrelease voor in-game en tRadio-validatie.",
+      "Tegelinterface met meldkamer, OneSync-livemap en tRadio-bediening.",
+      "Persoonsgebonden werkmail en uitsluitend eigen in-game wachtwoordbeheer.",
+      "Extern portaal op de serverpoort met actuele politierolcontrole per verzoek."
+    ]
+  }
 }

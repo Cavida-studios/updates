@@ -1,5 +1,13 @@
 # cavida_bridge
 
+## 1.4.6 — testrelease
+
+- Testrelease voor in-game validatie.
+- Centrale checker herkent ontwikkelmetadata en gepubliceerde testreleases.
+- Bestaande stabiele updates blijven in hun eigen kanaal.
+
+
+
 ## 1.4.5
 
 - Prefer cavida_target during automatic target provider detection.

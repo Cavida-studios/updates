@@ -1,9 +1,8 @@
 # cavida_laptop
 
-## 0.5.2 — in ontwikkeling
+## 0.5.2 — testrelease
 
-Nog geen gepubliceerde release. Deze metadata bevestigt uitsluitend de registratie bij de centrale Cavida-versiecontrole.
-
-- FiveM-functiereferenties worden geaccepteerd bij externe appregistratie.
-
-- MEOS-icoon blijft zichtbaar met uitleg bij ontbrekend internet of rechten.
+- Testrelease voor in-game validatie.
+- Cavida React-desktop met unieke laptop-, USB- en 4G-dockmetadata.
+- Internetabonnementen, modeminstallatie, blijvende wifi en databundels.
+- Externe app-export met FiveM-functiereferenties en zichtbare MEOS-launcher.

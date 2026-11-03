@@ -1,13 +1,13 @@
 # cavida_mdt
 
-## 0.2.0 — in ontwikkeling
+## 0.2.0 — testrelease
 
-Nog geen gepubliceerde release.
+- Testrelease voor in-game en tRadio-validatie.
+- Tegelinterface met meldkamer, OneSync-livemap en tRadio-bediening.
+- Persoonsgebonden werkmail en uitsluitend eigen in-game wachtwoordbeheer.
+- Extern portaal op de serverpoort met actuele politierolcontrole per verzoek.
 
-- Nieuwe tegelinterface, livemap en uitgebreide meldkamer.
-- Optionele tRadio-koppeling voor kanalen, sprekers, noodstatus en meldkamerbediening.
-- Persoonlijke werkmail en een extern portaal onder /cavida_mdt/ op de serverpoort.
-- Alleen het eigen character kan in-game een wachtwoord instellen of wijzigen; actuele politierollen worden ook extern continu gecontroleerd.
+
 
 
 ## 0.1.2 — in ontwikkeling

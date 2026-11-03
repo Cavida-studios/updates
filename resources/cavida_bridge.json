@@ -87,5 +87,15 @@
         "GetVersion now reads the actual manifest version."
       ]
     }
-  ]
+  ],
+  "testingRelease": {
+    "version": "1.4.6",
+    "tag": "v1.4.6",
+    "prerelease": true,
+    "changes": [
+      "Testrelease voor in-game validatie.",
+      "Centrale checker herkent ontwikkelmetadata en gepubliceerde testreleases.",
+      "Bestaande stabiele updates blijven in hun eigen kanaal."
+    ]
+  }
 }

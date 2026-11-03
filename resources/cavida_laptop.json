@@ -1,6 +1,16 @@
 {
   "resource": "cavida_laptop",
-  "developmentVersion": "0.5.2",
-  "status": "development",
-  "releases": []
+  "status": "testing",
+  "releases": [],
+  "testingRelease": {
+    "version": "0.5.2",
+    "tag": "v0.5.2",
+    "prerelease": true,
+    "changes": [
+      "Testrelease voor in-game validatie.",
+      "Cavida React-desktop met unieke laptop-, USB- en 4G-dockmetadata.",
+      "Internetabonnementen, modeminstallatie, blijvende wifi en databundels.",
+      "Externe app-export met FiveM-functiereferenties en zichtbare MEOS-launcher."
+    ]
+  }
 }
