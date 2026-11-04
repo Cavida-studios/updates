@@ -3,11 +3,13 @@
   "status": "testing",
   "releases": [],
   "testingRelease": {
-    "version": "0.1.0",
-    "tag": "v0.1.0",
+    "version": "0.1.1",
+    "tag": "v0.1.1",
     "prerelease": true,
     "changes": [
-      "Cavida bedrijfsapp met bossmenu, winkelmandje, voorraad, bestellingen, factuuradministratie en teamtaken."
+      "Alle bedrijfsjobs standaard zichtbaar zonder verplichte bedrijvenlijst.",
+      "Rechten volgen actuele bridgebaan, jobrang en bossmarkering; optionele managerrang per job.",
+      "Bossmenu toont personeel met actuele jobrang; oude approllen verlenen geen frameworkrechten."
     ]
   }
 }
