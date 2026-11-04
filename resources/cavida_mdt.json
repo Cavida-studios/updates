@@ -3,15 +3,13 @@
   "status": "testing",
   "releases": [],
   "testingRelease": {
-    "version": "0.6.0",
-    "tag": "v0.6.0",
+    "version": "0.6.1",
+    "tag": "v0.6.1",
     "prerelease": true,
     "changes": [
-      "Hoofdletterongevoelig zoeken, e-mail en jobcontrole.",
-      "Ambulancewerkplek met patiëntendossiers, behandelingen, voorgeschiedenis en versiehistorie.",
-      "Gedocumenteerde OSP-momentopnamen met bron, tijdstip, nabijheid en dienstcontrole.",
-      "Dossiers delen als vaste kopie met volledige dienstmail in het info-postvak.",
-      "Cavida-telefooninterface voor RoadPhone Pro, LB Phone en SD via LB-compatibiliteit."
+      "Telefoonkop respecteert de statusbalk, camera-uitsparing en SDK-schermmarges.",
+      "Compactere menurijen zonder dubbele pictogrammen; alle zes politieopties passen op een smal telefoonscherm.",
+      "Zichtbare scrollbars en overbodige telefoonfooter verwijderd; scrollen blijft werken."
     ]
   }
 }

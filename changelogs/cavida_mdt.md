@@ -1,5 +1,12 @@
 # cavida_mdt
 
+## 0.6.1 — testrelease
+
+- Telefoonkop respecteert de statusbalk, camera-uitsparing en SDK-schermmarges.
+- Compactere menurijen zonder dubbele pictogrammen; alle zes politieopties passen op een smal telefoonscherm.
+- Zichtbare scrollbars en overbodige telefoonfooter verwijderd; scrollen blijft werken.
+
+
 ## 0.6.0 — testrelease
 
 - Hoofdletterongevoelig zoeken, e-mail en jobcontrole.
