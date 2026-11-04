@@ -3,14 +3,15 @@
   "status": "testing",
   "releases": [],
   "testingRelease": {
-    "version": "0.4.1",
-    "tag": "v0.4.1",
+    "version": "0.5.0",
+    "tag": "v0.5.0",
     "prerelease": true,
     "changes": [
-      "Zoekacties en andere leesverzoeken wachten niet meer op achtergrondverkeer of schrijfverzoeken; dubbele lopende leesverzoeken worden samengevoegd.",
-      "Grote API-antwoorden worden via kleine, sessiegebonden delen opgehaald om vastlopende antwoorden op de native gamepoort te voorkomen.",
-      "Online charactercontrole gebruikt een gecontroleerde bronkoppeling en blijft bij ieder verzoek de actuele frameworkrol controleren.",
-      "Zoekscherm toont voortgang en legt het minimum van twee zoektekens uit; achtergrondvernieuwing stapelt niet op."
+      "Globale zoekbalk met categorieën, Ctrl+K en rechtstreeks openen van personen, voertuigen en bevoegde dossiers.",
+      "Personen, voertuigen en dossiers opzoeken en koppelen binnen rapporten, met herkenbare resultaten en bescherming tegen dubbele koppelingen.",
+      "Vernieuwde Cavida-vormgeving met twee dossierkolommen, consistente navigatie, rustige panelen en aangepaste mobiele indeling.",
+      "Defensie en army hebben dezelfde politiemogelijkheden, met eigen instelbare jobs, afdelingsnaam en defensie.com-werkmail.",
+      "Globaal zoeken en dezelfde personenzoeker zijn ook beschikbaar voor dienstregistraties, met behoud van dienst- en ranggrenzen."
     ]
   }
 }

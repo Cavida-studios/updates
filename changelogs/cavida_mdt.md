@@ -1,5 +1,14 @@
 # cavida_mdt
 
+## 0.5.0 — testrelease
+
+- Globale zoekbalk met categorieën, Ctrl+K en rechtstreeks openen van personen, voertuigen en bevoegde dossiers.
+- Personen, voertuigen en dossiers opzoeken en koppelen binnen rapporten, met herkenbare resultaten en bescherming tegen dubbele koppelingen.
+- Vernieuwde Cavida-vormgeving met twee dossierkolommen, consistente navigatie, rustige panelen en aangepaste mobiele indeling.
+- Defensie en army hebben dezelfde politiemogelijkheden, met eigen instelbare jobs, afdelingsnaam en defensie.com-werkmail.
+- Globaal zoeken en dezelfde personenzoeker zijn ook beschikbaar voor dienstregistraties, met behoud van dienst- en ranggrenzen.
+
+
 ## 0.4.1 — testrelease
 
 - Zoekacties en andere leesverzoeken wachten niet meer op achtergrondverkeer of schrijfverzoeken; dubbele lopende leesverzoeken worden samengevoegd.
