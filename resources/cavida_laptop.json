@@ -3,14 +3,13 @@
   "status": "testing",
   "releases": [],
   "testingRelease": {
-    "version": "0.6.0",
-    "tag": "v0.6.0",
+    "version": "0.6.1",
+    "tag": "v0.6.1",
     "prerelease": true,
     "changes": [
-      "Centrale interne mail koppelt laptopaccounts aan werkmail en gedeelde jobpostvakken.",
-      "Gedeelde afzenders en postvakken worden bij ieder verzoek gecontroleerd; berichten en leesstatus zijn consistent.",
-      "Bestaande laptopmail wordt zonder dubbele berichten overgenomen en de brondata blijft behouden.",
-      "DUI-wereldschermen met lokale laptopprop, afstandsbeheer, opruimen en in-game afstelling per computermodel."
+      "Hoofdletterongevoelige interne e-mail en e-mailaanmaak.",
+      "Korte mailboxvoorvertoning en volledige berichten na actuele postvakcontrole.",
+      "Gedeelde Cavida-dossiers volledig lezen in laptopmail."
     ]
   }
 }

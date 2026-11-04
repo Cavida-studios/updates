@@ -3,15 +3,15 @@
   "status": "testing",
   "releases": [],
   "testingRelease": {
-    "version": "0.5.0",
-    "tag": "v0.5.0",
+    "version": "0.6.0",
+    "tag": "v0.6.0",
     "prerelease": true,
     "changes": [
-      "Globale zoekbalk met categorieën, Ctrl+K en rechtstreeks openen van personen, voertuigen en bevoegde dossiers.",
-      "Personen, voertuigen en dossiers opzoeken en koppelen binnen rapporten, met herkenbare resultaten en bescherming tegen dubbele koppelingen.",
-      "Vernieuwde Cavida-vormgeving met twee dossierkolommen, consistente navigatie, rustige panelen en aangepaste mobiele indeling.",
-      "Defensie en army hebben dezelfde politiemogelijkheden, met eigen instelbare jobs, afdelingsnaam en defensie.com-werkmail.",
-      "Globaal zoeken en dezelfde personenzoeker zijn ook beschikbaar voor dienstregistraties, met behoud van dienst- en ranggrenzen."
+      "Hoofdletterongevoelig zoeken, e-mail en jobcontrole.",
+      "Ambulancewerkplek met patiëntendossiers, behandelingen, voorgeschiedenis en versiehistorie.",
+      "Gedocumenteerde OSP-momentopnamen met bron, tijdstip, nabijheid en dienstcontrole.",
+      "Dossiers delen als vaste kopie met volledige dienstmail in het info-postvak.",
+      "Cavida-telefooninterface voor RoadPhone Pro, LB Phone en SD via LB-compatibiliteit."
     ]
   }
 }

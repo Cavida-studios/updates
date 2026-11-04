@@ -1,5 +1,12 @@
 # cavida_laptop
 
+## 0.6.1 — testrelease
+
+- Hoofdletterongevoelige interne e-mail en e-mailaanmaak.
+- Korte mailboxvoorvertoning en volledige berichten na actuele postvakcontrole.
+- Gedeelde Cavida-dossiers volledig lezen in laptopmail.
+
+
 ## 0.6.0 — testrelease
 
 - Centrale interne mail koppelt laptopaccounts aan werkmail en gedeelde jobpostvakken.

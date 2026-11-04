@@ -1,5 +1,14 @@
 # cavida_mdt
 
+## 0.6.0 — testrelease
+
+- Hoofdletterongevoelig zoeken, e-mail en jobcontrole.
+- Ambulancewerkplek met patiëntendossiers, behandelingen, voorgeschiedenis en versiehistorie.
+- Gedocumenteerde OSP-momentopnamen met bron, tijdstip, nabijheid en dienstcontrole.
+- Dossiers delen als vaste kopie met volledige dienstmail in het info-postvak.
+- Cavida-telefooninterface voor RoadPhone Pro, LB Phone en SD via LB-compatibiliteit.
+
+
 ## 0.5.0 — testrelease
 
 - Globale zoekbalk met categorieën, Ctrl+K en rechtstreeks openen van personen, voertuigen en bevoegde dossiers.
