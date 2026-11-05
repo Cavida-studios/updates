@@ -1,6 +1,18 @@
 {
   "resource": "cavida_target",
+  "version": "1.2.2",
+  "status": "stable",
+  "download": "https://portal.cfx.re/assets/granted-assets",
   "releases": [
+    {
+      "version": "1.2.2",
+      "changes": [
+        "Centrale registratie van target- en interactieinstellingen.",
+        "Instellingen registreren automatisch in Cavida Beheer op Cavida Desktop.",
+        "Centrale persistente instellingen met serverautorisatie, revisiecontrole en migratie van bestaande waarden.",
+        "Geen handmatig te bewerken configbestanden meer; wijzigingen gelden na resourceherstart."
+      ]
+    },
     {
       "version": "1.2.1",
       "changes": [
@@ -49,8 +61,5 @@
         "Zones, entities, models, bones, conditional actions, consumer cleanup and central version registration through cavida_bridge."
       ]
     }
-  ],
-  "version": "1.2.1",
-  "url": "https://github.com/Cavida-studios/updates/blob/main/changelogs/cavida_target.md",
-  "download": "https://portal.cfx.re/assets/granted-assets"
+  ]
 }

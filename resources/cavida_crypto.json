@@ -1,0 +1,19 @@
+{
+  "resource": "cavida_crypto",
+  "version": "7.0.0",
+  "status": "stable",
+  "download": "https://portal.cfx.re/assets/granted-assets",
+  "releases": [
+    {
+      "version": "7.0.0",
+      "changes": [
+        "Cavida Crypto als native app op Cavida Desktop; externe laptopintegratie verwijderd.",
+        "Uitsluitend Cavida-branding en migratiepad voor bestaande wallets, racks en warehouses bij hernoemen.",
+        "Ontwikkeltools, tests en demomodus uit de actuele resourceboom verwijderd.",
+        "Instellingen registreren automatisch in Cavida Beheer op Cavida Desktop.",
+        "Centrale persistente instellingen met serverautorisatie, revisiecontrole en migratie van bestaande waarden.",
+        "Geen handmatig te bewerken configbestanden meer; wijzigingen gelden na resourceherstart."
+      ]
+    }
+  ]
+}

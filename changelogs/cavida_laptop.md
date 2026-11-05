@@ -1,5 +1,15 @@
 # cavida_laptop
 
+## 0.7.0
+
+- Automatische Cavida Beheer-app voor bevoegde beheerders, zonder wijziging van de bestaande desktopvormgeving.
+- Native appberichttransport en standalone characteridentiteit via de centrale bridge.
+- Instellingen registreren automatisch in Cavida Beheer op Cavida Desktop.
+- Centrale persistente instellingen met serverautorisatie, revisiecontrole en migratie van bestaande waarden.
+- Geen handmatig te bewerken configbestanden meer; wijzigingen gelden na resourceherstart.
+
+Lokale controles uitgevoerd. Live FiveM-tests zijn voor deze release op expliciet verzoek overgeslagen.
+
 ## 0.6.1 — testrelease
 
 - Hoofdletterongevoelige interne e-mail en e-mailaanmaak.

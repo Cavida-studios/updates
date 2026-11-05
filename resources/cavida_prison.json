@@ -1,9 +1,19 @@
 {
   "resource": "cavida_prison",
-  "version": "2.4.0",
-  "url": "https://github.com/Cavida-studios/updates/blob/main/changelogs/cavida_prison.md",
-  "download": "https://github.com/Cavida-studios/cavida_prison/releases/latest",
+  "version": "2.5.0",
+  "status": "stable",
+  "download": "https://portal.cfx.re/assets/granted-assets",
   "releases": [
+    {
+      "version": "2.5.0",
+      "changes": [
+        "Gevangenispaneel als native laptopapp met bestaande panelrechten, deuren en camerafuncties.",
+        "Ontwikkeltools en tests uit de actuele resourceboom verwijderd.",
+        "Instellingen registreren automatisch in Cavida Beheer op Cavida Desktop.",
+        "Centrale persistente instellingen met serverautorisatie, revisiecontrole en migratie van bestaande waarden.",
+        "Geen handmatig te bewerken configbestanden meer; wijzigingen gelden na resourceherstart."
+      ]
+    },
     {
       "version": "2.4.0",
       "changes": [

@@ -1,15 +1,18 @@
 {
   "resource": "cavida_laptop",
-  "status": "testing",
-  "releases": [],
-  "testingRelease": {
-    "version": "0.6.1",
-    "tag": "v0.6.1",
-    "prerelease": true,
-    "changes": [
-      "Hoofdletterongevoelige interne e-mail en e-mailaanmaak.",
-      "Korte mailboxvoorvertoning en volledige berichten na actuele postvakcontrole.",
-      "Gedeelde Cavida-dossiers volledig lezen in laptopmail."
-    ]
-  }
+  "version": "0.7.0",
+  "status": "stable",
+  "download": "https://portal.cfx.re/assets/granted-assets",
+  "releases": [
+    {
+      "version": "0.7.0",
+      "changes": [
+        "Automatische Cavida Beheer-app voor bevoegde beheerders, zonder wijziging van de bestaande desktopvormgeving.",
+        "Native appberichttransport en standalone characteridentiteit via de centrale bridge.",
+        "Instellingen registreren automatisch in Cavida Beheer op Cavida Desktop.",
+        "Centrale persistente instellingen met serverautorisatie, revisiecontrole en migratie van bestaande waarden.",
+        "Geen handmatig te bewerken configbestanden meer; wijzigingen gelden na resourceherstart."
+      ]
+    }
+  ]
 }

@@ -1,5 +1,14 @@
 # cavida_postal
 
+## 1.2.0
+
+- Cavida Post als native laptopapp; starten en uitvoeren van routes behoudt bestaande locatie- en jobcontroles.
+- Instellingen registreren automatisch in Cavida Beheer op Cavida Desktop.
+- Centrale persistente instellingen met serverautorisatie, revisiecontrole en migratie van bestaande waarden.
+- Geen handmatig te bewerken configbestanden meer; wijzigingen gelden na resourceherstart.
+
+Lokale controles uitgevoerd. Live FiveM-tests zijn voor deze release op expliciet verzoek overgeslagen.
+
 ## 1.1.0
 
 - Twelve selectable route areas with 74 delivery addresses; surprise routes avoid repeating the previous area.

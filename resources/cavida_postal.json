@@ -1,9 +1,18 @@
 {
   "resource": "cavida_postal",
-  "version": "1.1.0",
-  "url": "https://github.com/Cavida-studios/updates/blob/main/changelogs/cavida_postal.md",
+  "version": "1.2.0",
+  "status": "stable",
   "download": "https://portal.cfx.re/assets/granted-assets",
   "releases": [
+    {
+      "version": "1.2.0",
+      "changes": [
+        "Cavida Post als native laptopapp; starten en uitvoeren van routes behoudt bestaande locatie- en jobcontroles.",
+        "Instellingen registreren automatisch in Cavida Beheer op Cavida Desktop.",
+        "Centrale persistente instellingen met serverautorisatie, revisiecontrole en migratie van bestaande waarden.",
+        "Geen handmatig te bewerken configbestanden meer; wijzigingen gelden na resourceherstart."
+      ]
+    },
     {
       "version": "1.1.0",
       "changes": [

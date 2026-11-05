@@ -1,9 +1,19 @@
 {
   "resource": "cavida_bridge",
-  "version": "1.4.5",
-  "url": "https://github.com/Cavida-studios/updates/blob/main/changelogs/cavida_bridge.md",
+  "version": "1.5.0",
+  "status": "stable",
   "download": "https://portal.cfx.re/assets/granted-assets",
   "releases": [
+    {
+      "version": "1.5.0",
+      "changes": [
+        "Centrale beheerrechten voor QBCore, Qbox, ESX en standalone; Cavida Desktop is de primaire apphost.",
+        "Gedeelde instellingenservice met scheiding tussen servergeheimen en publieke clientwaarden.",
+        "Instellingen registreren automatisch in Cavida Beheer op Cavida Desktop.",
+        "Centrale persistente instellingen met serverautorisatie, revisiecontrole en migratie van bestaande waarden.",
+        "Geen handmatig te bewerken configbestanden meer; wijzigingen gelden na resourceherstart."
+      ]
+    },
     {
       "version": "1.4.5",
       "changes": [
@@ -87,13 +97,5 @@
         "GetVersion now reads the actual manifest version."
       ]
     }
-  ],
-  "testingRelease": {
-    "version": "1.4.7",
-    "tag": "v1.4.7",
-    "prerelease": true,
-    "changes": [
-      "PlayerData levert de server-side character-voornaam, achternaam en echte baasstatus voor afgeschermde werkmail."
-    ]
-  }
+  ]
 }

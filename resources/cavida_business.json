@@ -1,15 +1,19 @@
 {
   "resource": "cavida_business",
-  "status": "testing",
-  "releases": [],
-  "testingRelease": {
-    "version": "0.1.1",
-    "tag": "v0.1.1",
-    "prerelease": true,
-    "changes": [
-      "Alle bedrijfsjobs standaard zichtbaar zonder verplichte bedrijvenlijst.",
-      "Rechten volgen actuele bridgebaan, jobrang en bossmarkering; optionele managerrang per job.",
-      "Bossmenu toont personeel met actuele jobrang; oude approllen verlenen geen frameworkrechten."
-    ]
-  }
+  "version": "0.2.0",
+  "status": "stable",
+  "download": "https://portal.cfx.re/assets/granted-assets",
+  "releases": [
+    {
+      "version": "0.2.0",
+      "changes": [
+        "Sandboxveilige bevestigingsvensters vervangen geblokkeerde browser-confirmdialogen.",
+        "Werkurenregistratie met in-/uitklokken en dag-/maandoverzicht van voltooide orderwaarden.",
+        "Alle bedrijfsjobs blijven standaard beschikbaar; rechten volgen actuele jobrang en bossmarkering.",
+        "Instellingen registreren automatisch in Cavida Beheer op Cavida Desktop.",
+        "Centrale persistente instellingen met serverautorisatie, revisiecontrole en migratie van bestaande waarden.",
+        "Geen handmatig te bewerken configbestanden meer; wijzigingen gelden na resourceherstart."
+      ]
+    }
+  ]
 }

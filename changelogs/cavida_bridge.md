@@ -1,5 +1,15 @@
 # cavida_bridge
 
+## 1.5.0
+
+- Centrale beheerrechten voor QBCore, Qbox, ESX en standalone; Cavida Desktop is de primaire apphost.
+- Gedeelde instellingenservice met scheiding tussen servergeheimen en publieke clientwaarden.
+- Instellingen registreren automatisch in Cavida Beheer op Cavida Desktop.
+- Centrale persistente instellingen met serverautorisatie, revisiecontrole en migratie van bestaande waarden.
+- Geen handmatig te bewerken configbestanden meer; wijzigingen gelden na resourceherstart.
+
+Lokale controles uitgevoerd. Live FiveM-tests zijn voor deze release op expliciet verzoek overgeslagen.
+
 ## 1.4.7 — testrelease
 
 - PlayerData levert de server-side character-voornaam, achternaam en echte baasstatus voor afgeschermde werkmail.

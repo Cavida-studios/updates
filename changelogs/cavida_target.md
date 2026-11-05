@@ -1,5 +1,14 @@
 # cavida_target
 
+## 1.2.2
+
+- Centrale registratie van target- en interactieinstellingen.
+- Instellingen registreren automatisch in Cavida Beheer op Cavida Desktop.
+- Centrale persistente instellingen met serverautorisatie, revisiecontrole en migratie van bestaande waarden.
+- Geen handmatig te bewerken configbestanden meer; wijzigingen gelden na resourceherstart.
+
+Lokale controles uitgevoerd. Live FiveM-tests zijn voor deze release op expliciet verzoek overgeslagen.
+
 ## 1.2.1
 
 - Execute the selected target action with E, alongside the existing left-click selection.

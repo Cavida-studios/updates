@@ -1,5 +1,14 @@
 # cavida_mdt
 
+## 0.7.0
+
+- MDT-instellingen migreren naar centraal beheer; bestaande dossiers en mail blijven behouden.
+- Instellingen registreren automatisch in Cavida Beheer op Cavida Desktop.
+- Centrale persistente instellingen met serverautorisatie, revisiecontrole en migratie van bestaande waarden.
+- Geen handmatig te bewerken configbestanden meer; wijzigingen gelden na resourceherstart.
+
+Lokale controles uitgevoerd. Live FiveM-tests zijn voor deze release op expliciet verzoek overgeslagen.
+
 ## 0.6.1 — testrelease
 
 - Telefoonkop respecteert de statusbalk, camera-uitsparing en SDK-schermmarges.
