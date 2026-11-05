@@ -1,5 +1,13 @@
 # cavida_crypto
 
+## 7.0.2
+
+- Robuuste opstart initialiseert de gebundelde SQL-opslagmodule voordat CryptoStore wordt gebruikt.
+- Ontbrekende, beschadigde of onvolledig geïnstalleerde bestanden stoppen de resource met een duidelijke melding, zonder lege spelersgegevens aan te maken.
+- Bestaande SQL- en migratiegegevens en reeds geladen opslagrevisies blijven ongewijzigd.
+
+Opstart gecontroleerd met ontbrekende, beschadigde en reeds geladen modules. Geen geslaagde FiveM-test geclaimd.
+
 ## 7.0.1
 
 - Alle cryptogegevens worden als volledige snapshot opgeslagen in SQL: wallets, racks, hardware, warehouses, bestellingen en verplichtingen.
