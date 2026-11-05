@@ -1,5 +1,13 @@
 # cavida_fps
 
+## 1.0.3
+
+- Spelersvoorkeuren staan per server-gecontroleerde characteridentiteit in SQL.
+- Bestaande lokale voorkeuren worden alleen ingelezen bij de eerste SQL-migratie.
+- De interface bevestigt opslaan pas na server- en databasebevestiging; fouten herstellen de vorige lokale waarden.
+
+Gecontroleerd met MariaDB en lokale Lua-contracten. Geen geslaagde live FiveM-test geclaimd.
+
 ## 1.0.2
 
 - Centrale registratie van FPS-beheerinstellingen.

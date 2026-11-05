@@ -1,9 +1,17 @@
 {
   "resource": "cavida_fps",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "status": "stable",
   "download": "https://portal.cfx.re/assets/granted-assets",
   "releases": [
+    {
+      "version": "1.0.3",
+      "changes": [
+        "Spelersvoorkeuren staan per server-gecontroleerde characteridentiteit in SQL.",
+        "Bestaande lokale voorkeuren worden alleen ingelezen bij de eerste SQL-migratie.",
+        "De interface bevestigt opslaan pas na server- en databasebevestiging; fouten herstellen de vorige lokale waarden."
+      ]
+    },
     {
       "version": "1.0.2",
       "changes": [

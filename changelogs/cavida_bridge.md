@@ -1,5 +1,13 @@
 # cavida_bridge
 
+## 1.5.1
+
+- Blijvende centrale instellingen en audithistorie staan in SQL; KVP wordt alleen gelezen voor eenmalige migratie.
+- Gedeelde SQL-opslag met resource-eigendom, revisiecontrole en expliciete herstelbackups.
+- SQL-uitval stopt instellingeninitialisatie zonder stille terugval naar lege standaardwaarden.
+
+Gecontroleerd met MariaDB en lokale Lua-contracten. Geen geslaagde live FiveM-test geclaimd.
+
 ## 1.5.0
 
 - Centrale beheerrechten voor QBCore, Qbox, ESX en standalone; Cavida Desktop is de primaire apphost.

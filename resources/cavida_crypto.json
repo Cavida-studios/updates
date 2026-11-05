@@ -1,9 +1,18 @@
 {
   "resource": "cavida_crypto",
-  "version": "7.0.0",
+  "version": "7.0.1",
   "status": "stable",
   "download": "https://portal.cfx.re/assets/granted-assets",
   "releases": [
+    {
+      "version": "7.0.1",
+      "changes": [
+        "Alle cryptogegevens worden als volledige snapshot opgeslagen in SQL: wallets, racks, hardware, warehouses, bestellingen en verplichtingen.",
+        "Alleen-lezen export van de oude davidcrypto-KVP naar SQL, zonder de oorspronkelijke gegevens te wissen.",
+        "Expliciet herstel met een SQL-backup van de vervangen dataset; conflicterende datasets worden niet blind samengevoegd.",
+        "Geen stilzwijgende lege installatie; SQL-fouten of revisieconflicten blokkeren verdere mutaties."
+      ]
+    },
     {
       "version": "7.0.0",
       "changes": [

@@ -1,5 +1,13 @@
 # cavida_prison
 
+## 2.5.1
+
+- Zelf aangemaakte en geïmporteerde gevangenisdeuren staan in SQL.
+- Bestaande generated_doors.json wordt alleen ingelezen voor migratie en nooit meer als hoofdopslag beschreven.
+- SQL-revisieconflicten en mislukte opslag overschrijven de bestaande deurlijst niet.
+
+Gecontroleerd met MariaDB en lokale Lua-contracten. Geen geslaagde live FiveM-test geclaimd.
+
 ## 2.5.0
 
 - Gevangenispaneel als native laptopapp met bestaande panelrechten, deuren en camerafuncties.

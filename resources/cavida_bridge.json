@@ -1,9 +1,17 @@
 {
   "resource": "cavida_bridge",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "status": "stable",
   "download": "https://portal.cfx.re/assets/granted-assets",
   "releases": [
+    {
+      "version": "1.5.1",
+      "changes": [
+        "Blijvende centrale instellingen en audithistorie staan in SQL; KVP wordt alleen gelezen voor eenmalige migratie.",
+        "Gedeelde SQL-opslag met resource-eigendom, revisiecontrole en expliciete herstelbackups.",
+        "SQL-uitval stopt instellingeninitialisatie zonder stille terugval naar lege standaardwaarden."
+      ]
+    },
     {
       "version": "1.5.0",
       "changes": [

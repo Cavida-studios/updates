@@ -1,9 +1,17 @@
 {
   "resource": "cavida_prison",
-  "version": "2.5.0",
+  "version": "2.5.1",
   "status": "stable",
   "download": "https://portal.cfx.re/assets/granted-assets",
   "releases": [
+    {
+      "version": "2.5.1",
+      "changes": [
+        "Zelf aangemaakte en geïmporteerde gevangenisdeuren staan in SQL.",
+        "Bestaande generated_doors.json wordt alleen ingelezen voor migratie en nooit meer als hoofdopslag beschreven.",
+        "SQL-revisieconflicten en mislukte opslag overschrijven de bestaande deurlijst niet."
+      ]
+    },
     {
       "version": "2.5.0",
       "changes": [

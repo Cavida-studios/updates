@@ -1,9 +1,16 @@
 {
   "resource": "cavida_postal",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "status": "stable",
   "download": "https://portal.cfx.re/assets/granted-assets",
   "releases": [
+    {
+      "version": "1.2.1",
+      "changes": [
+        "De blijvende voertuigvolgnummering staat in SQL en migreert uit de bestaande KVP.",
+        "Een databaseconflict bij nummerreservering ontstaat vóór het aanmaken van een werkvoertuig."
+      ]
+    },
     {
       "version": "1.2.0",
       "changes": [

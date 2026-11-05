@@ -1,5 +1,12 @@
 # cavida_postal
 
+## 1.2.1
+
+- De blijvende voertuigvolgnummering staat in SQL en migreert uit de bestaande KVP.
+- Een databaseconflict bij nummerreservering ontstaat vóór het aanmaken van een werkvoertuig.
+
+Gecontroleerd met MariaDB en lokale Lua-contracten. Geen geslaagde live FiveM-test geclaimd.
+
 ## 1.2.0
 
 - Cavida Post als native laptopapp; starten en uitvoeren van routes behoudt bestaande locatie- en jobcontroles.
