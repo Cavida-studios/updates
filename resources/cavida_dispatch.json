@@ -2,6 +2,14 @@
   "resource": "cavida_dispatch",
   "releases": [
     {
+      "version": "1.0.2",
+      "changes": [
+        "Deuren van ondersteunde providers verschijnen automatisch volgens afzonderlijke kijk- en bedienrechten per job, rang en deuruitzondering in Cavida Beheer.",
+        "Jobs met uitsluitend deurrechten krijgen geen toegang tot meldingen of MDT-personengegevens; bestaande expliciete deurbeperkingen blijven behouden.",
+        "Native verzoeken en webantwoorden blijven geldige JSON geven tijdens opstart; lege antwoorden worden veilig afgehandeld zonder mutaties automatisch te herhalen."
+      ]
+    },
+    {
       "version": "1.0.1",
       "changes": [
         "Server- en clientinitialisatie wachten op gereedmelding van Cavida Bridge, centrale instellingen en SQL.",
@@ -22,7 +30,7 @@
       ]
     }
   ],
-  "version": "1.0.1",
+  "version": "1.0.2",
   "status": "stable",
   "download": "https://portal.cfx.re/assets/granted-assets"
 }

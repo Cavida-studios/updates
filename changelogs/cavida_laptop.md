@@ -1,3 +1,8 @@
+# cavida_laptop 0.7.4
+
+- Laptop-, USB-, dock- en app-exports zijn direct beschikbaar terwijl de client op bridge en SQL wacht.
+- Tijdens opstart wordt inventorygebruik geweigerd met een melding, zonder het item te verbruiken; na gereedmelding worden de echte handlers gebruikt.
+
 # cavida_laptop 0.7.3
 
 - Server- en clientinitialisatie wachten op gereedmelding van Cavida Bridge, centrale instellingen en SQL.

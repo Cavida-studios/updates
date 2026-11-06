@@ -1,9 +1,16 @@
 {
   "resource": "cavida_laptop",
-  "version": "0.7.3",
+  "version": "0.7.4",
   "status": "stable",
   "download": "https://portal.cfx.re/assets/granted-assets",
   "releases": [
+    {
+      "version": "0.7.4",
+      "changes": [
+        "Laptop-, USB-, dock- en app-exports zijn direct beschikbaar terwijl de client op bridge en SQL wacht.",
+        "Tijdens opstart wordt inventorygebruik geweigerd met een melding, zonder het item te verbruiken; na gereedmelding worden de echte handlers gebruikt."
+      ]
+    },
     {
       "version": "0.7.3",
       "changes": [

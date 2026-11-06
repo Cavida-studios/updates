@@ -1,9 +1,16 @@
 {
   "resource": "cavida_crypto",
-  "version": "7.0.3",
+  "version": "7.0.4",
   "status": "stable",
   "download": "https://portal.cfx.re/assets/granted-assets",
   "releases": [
+    {
+      "version": "7.0.4",
+      "changes": [
+        "Hardware- en app-exports blijven beschikbaar tijdens uitgestelde initialisatie en weigeren gebruik totdat bridge, server en client gereed zijn.",
+        "Crypto-hardware wordt tijdens het wachten niet verbruikt; bestaande SQL-eigendom en spelersgegevens blijven behouden."
+      ]
+    },
     {
       "version": "7.0.3",
       "changes": [

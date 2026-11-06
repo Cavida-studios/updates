@@ -1,3 +1,9 @@
+# cavida_dispatch 1.0.2
+
+- Deuren van ondersteunde providers verschijnen automatisch volgens afzonderlijke kijk- en bedienrechten per job, rang en deuruitzondering in Cavida Beheer.
+- Jobs met uitsluitend deurrechten krijgen geen toegang tot meldingen of MDT-personengegevens; bestaande expliciete deurbeperkingen blijven behouden.
+- Native verzoeken en webantwoorden blijven geldige JSON geven tijdens opstart; lege antwoorden worden veilig afgehandeld zonder mutaties automatisch te herhalen.
+
 # cavida_dispatch 1.0.1
 
 - Server- en clientinitialisatie wachten op gereedmelding van Cavida Bridge, centrale instellingen en SQL.

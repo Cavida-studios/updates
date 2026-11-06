@@ -1,3 +1,8 @@
+# cavida_crypto 7.0.4
+
+- Hardware- en app-exports blijven beschikbaar tijdens uitgestelde initialisatie en weigeren gebruik totdat bridge, server en client gereed zijn.
+- Crypto-hardware wordt tijdens het wachten niet verbruikt; bestaande SQL-eigendom en spelersgegevens blijven behouden.
+
 # cavida_crypto 7.0.3
 
 - Server- en clientinitialisatie wachten op gereedmelding van Cavida Bridge, centrale instellingen en SQL.

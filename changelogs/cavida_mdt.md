@@ -1,3 +1,8 @@
+# cavida_mdt 0.13.2
+
+- Afgeschermde werkaccountprofielen voor jobs met uitsluitend deurrechten maken online deurenregie mogelijk zonder politie- of andere dienstrechten.
+- Deurjobs krijgen een afzonderlijke accountscope en kunnen geen personen, registers of dossiers opvragen; bestaande dienstprofielen behouden voorrang.
+
 # cavida_mdt 0.13.1
 
 - Server- en clientinitialisatie wachten op gereedmelding van Cavida Bridge, centrale instellingen en SQL.
