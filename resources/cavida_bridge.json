@@ -1,9 +1,16 @@
 {
   "resource": "cavida_bridge",
-  "version": "1.8.0",
+  "version": "1.9.0",
   "status": "stable",
   "download": "https://portal.cfx.re/assets/granted-assets",
   "releases": [
+    {
+      "version": "1.9.0",
+      "changes": [
+        "Gedeelde tRadio-kanaalinzage en gecontroleerde portoverplaatsing voor Cavida Meldkamer, met actuele rol-, instance- en providerrechten.",
+        "Optionele eigen privé-noodgesprekken via pma-voice: aannemen, wachten, hervatten en beëindigen; bestaande gesprekken worden niet overgenomen."
+      ]
+    },
     {
       "version": "1.8.0",
       "changes": [

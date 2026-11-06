@@ -1,3 +1,7 @@
+# cavida_mdt 0.13.0
+
+- Cavida Meldkamer integreert met bestaande MEOS-meldingen en gescheiden dienstendossiers; revisieconflicten bewaren handmatige wijzigingen.
+
 # cavida_mdt
 
 ## 0.12.0

@@ -1,3 +1,8 @@
+# cavida_bridge 1.9.0
+
+- Gedeelde tRadio-kanaalinzage en gecontroleerde portoverplaatsing voor Cavida Meldkamer, met actuele rol-, instance- en providerrechten.
+- Optionele eigen privé-noodgesprekken via pma-voice: aannemen, wachten, hervatten en beëindigen; bestaande gesprekken worden niet overgenomen.
+
 # cavida_bridge
 
 ## 1.8.0
