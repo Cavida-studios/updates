@@ -1,9 +1,17 @@
 {
   "resource": "cavida_mdt",
-  "version": "0.9.1",
+  "version": "0.9.2",
   "status": "stable",
   "download": "https://portal.cfx.re/assets/granted-assets",
   "releases": [
+    {
+      "version": "0.9.2",
+      "changes": [
+        "Gedeelde dossiers in werkmail krijgen een opgemaakte dossierweergave met overdrachtskop, toelichting, hoofdstukken en leesbare Nederlandse datums.",
+        "Nieuwe gedeelde mails worden atomisch aan hun opgeslagen dossierkopie gekoppeld; oudere gegenereerde mails worden alleen na controle van referentie, onderwerp, adressen, tijd en dienstrechten herkend.",
+        "Oorspronkelijke mailtekst blijft bewaard en inklapbaar beschikbaar; gewone mails blijven tekstberichten zonder HTML-uitvoering."
+      ]
+    },
     {
       "version": "0.9.1",
       "changes": [

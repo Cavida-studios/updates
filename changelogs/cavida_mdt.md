@@ -1,5 +1,13 @@
 # cavida_mdt
 
+## 0.9.2
+
+- Gedeelde dossiers in werkmail krijgen een opgemaakte dossierweergave met overdrachtskop, toelichting, hoofdstukken en leesbare Nederlandse datums.
+- Nieuwe gedeelde mails worden atomisch aan hun opgeslagen dossierkopie gekoppeld; oudere gegenereerde mails worden alleen na controle van referentie, onderwerp, adressen, tijd en dienstrechten herkend.
+- Oorspronkelijke mailtekst blijft bewaard en inklapbaar beschikbaar; gewone mails blijven tekstberichten zonder HTML-uitvoering.
+
+Gecontroleerd met lokale MariaDB en de werkmailweergave op telefoon- en laptopformaat. Live FiveM-tests zoals afgesproken overgeslagen.
+
 ## 0.9.1
 
 - Strafvoorstellen op telefoon als kaarten met volledige omschrijving en apart overzicht van aantal, RP-boete en celstraf.
