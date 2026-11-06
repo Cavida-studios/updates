@@ -1,5 +1,17 @@
 # cavida_mdt
 
+## 0.9.0
+
+- 295 uitgewerkte FiveM-bepalingen toegevoegd: 151 RP-strafvoorstellen en 144 civiele, procedurele en disciplinaire bepalingen, met bronverwijzingen.
+- Centrale admins beheren artikeltekst, categorie, afhandeling, beschikbaarheid, boete en celstraf op de laptop; SQL-opslag, revisies en audit bewaren bestaande dossiermomentopnamen.
+- PV-workflow vernieuwd met duidelijke stappen, voortgang, controlekaarten, veldmeldingen en focus op het ontbrekende onderdeel.
+- Straat- en gebiedsnamen bij de huidige locatie; verplaatsbare incidentpin en handmatig aanpasbaar adres worden samen in SQL bewaard.
+- Opgemaakte leesweergave voor politie-, dienst-, ambulance- en gedeelde dossiers met hoofdstukken, medische gegevens, betrokkenen en strafvoorstellen.
+- Dynamisch zoeken naar strafbare feiten op naam, code of categorie, met toetsenbordbediening en uitsluiting van al gekozen feiten.
+- Leesbare Nederlandse datums voor epochwaarden in seconden of milliseconden; nieuwe PV-tijden zijn eenduidig UTC vastgelegd en worden in Europe/Amsterdam getoond.
+
+Lokale MariaDB-, browser-, datum- en callbackcontractcontroles uitgevoerd. Live FiveM-tests op expliciet verzoek overgeslagen.
+
 ## 0.8.0
 
 - Begeleid PV-stappenplan op telefoon en laptop, met SQL-concepten per character en server-side automatische invulling.

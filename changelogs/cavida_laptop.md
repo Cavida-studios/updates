@@ -1,5 +1,12 @@
 # cavida_laptop
 
+## 0.7.2
+
+- Centraal beheerde PV-vragen ondersteunen het antwoordtype Locatie met kaart voor MEOS 0.9.0.
+- Bestaande vragenlijsten en instellingen blijven behouden; een bestaande tekstvraag met code location krijgt eveneens de locatiekiezer.
+
+Lokale MariaDB-, browser-, datum- en callbackcontractcontroles uitgevoerd. Live FiveM-tests op expliciet verzoek overgeslagen.
+
 ## 0.7.1
 
 - Visuele PV-editor in Cavida Beheer voor MEOS: stappen en vragen toevoegen, verplaatsen en verwijderen, antwoordtypen, keuzelijsten en automatische invulling.
