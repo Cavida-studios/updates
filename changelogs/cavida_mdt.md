@@ -1,5 +1,12 @@
 # cavida_mdt
 
+## 0.9.1
+
+- Strafvoorstellen op telefoon als kaarten met volledige omschrijving en apart overzicht van aantal, RP-boete en celstraf.
+- Desktop- en afdrukweergave behouden de tabel; geen wijziging aan dossiergegevens of strafbedragen.
+
+Gecontroleerd met een lange artikelomschrijving op telefoon- en laptopformaat. Live FiveM-tests zoals afgesproken overgeslagen.
+
 ## 0.9.0
 
 - 295 uitgewerkte FiveM-bepalingen toegevoegd: 151 RP-strafvoorstellen en 144 civiele, procedurele en disciplinaire bepalingen, met bronverwijzingen.
