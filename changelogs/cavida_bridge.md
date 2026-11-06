@@ -1,3 +1,9 @@
+# cavida_bridge 1.9.1
+
+- SQL-opslag wacht langer op vertraagde oxmysql-gereedmelding; wachttijd telt geplande polls in plaats van tijd tijdens zware resource-opstart.
+- Maximaal vijf idempotente initialisatiepogingen herstellen tijdelijke SQL-startfouten zonder bestaande opslag of instellingen te vervangen.
+- Veilige diagnostiek onderscheidt ontbrekende database-gereedmelding, toegangsproblemen en ontbrekend SQL-schema zonder verbindingsgegevens te loggen.
+
 # cavida_bridge 1.9.0
 
 - Gedeelde tRadio-kanaalinzage en gecontroleerde portoverplaatsing voor Cavida Meldkamer, met actuele rol-, instance- en providerrechten.
