@@ -1,5 +1,14 @@
 # cavida_mdt
 
+## 0.10.0
+
+- Woningregister op laptop en telefoon voor bevoegde diensten, inclusief rechtbank, met bronvermelding en geaudite inzage zonder politiedossierrechten.
+- Eigen werkplaats met centraal instelbare APK-checklist, keuringsrechten en geldigheidsduur, onveranderlijke SQL-historie per werkplaats en atomische audit.
+- Externe onderhoudsstatus, servicehistorie en kilometers via cavida_bridge; APK werkt ook zonder externe mechanicprovider.
+- Character-, job-, rang- en baasstatus zijn aan sessies gebonden; jobwissels trekken oude schermen en antwoorden in op laptop, telefoon en web.
+
+Gecontroleerd met lokale MariaDB, API-mocks en browser op telefoon/laptop. Live FiveM-tests op verzoek overgeslagen.
+
 ## 0.9.2
 
 - Gedeelde dossiers in werkmail krijgen een opgemaakte dossierweergave met overdrachtskop, toelichting, hoofdstukken en leesbare Nederlandse datums.

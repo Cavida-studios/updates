@@ -1,9 +1,18 @@
 {
   "resource": "cavida_mdt",
-  "version": "0.9.2",
+  "version": "0.10.0",
   "status": "stable",
   "download": "https://portal.cfx.re/assets/granted-assets",
   "releases": [
+    {
+      "version": "0.10.0",
+      "changes": [
+        "Woningregister op laptop en telefoon voor bevoegde diensten, inclusief rechtbank, met bronvermelding en geaudite inzage zonder politiedossierrechten.",
+        "Eigen werkplaats met centraal instelbare APK-checklist, keuringsrechten en geldigheidsduur, onveranderlijke SQL-historie per werkplaats en atomische audit.",
+        "Externe onderhoudsstatus, servicehistorie en kilometers via cavida_bridge; APK werkt ook zonder externe mechanicprovider.",
+        "Character-, job-, rang- en baasstatus zijn aan sessies gebonden; jobwissels trekken oude schermen en antwoorden in op laptop, telefoon en web."
+      ]
+    },
     {
       "version": "0.9.2",
       "changes": [

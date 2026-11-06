@@ -1,9 +1,17 @@
 {
   "resource": "cavida_bridge",
-  "version": "1.5.1",
+  "version": "1.6.0",
   "status": "stable",
   "download": "https://portal.cfx.re/assets/granted-assets",
   "releases": [
+    {
+      "version": "1.6.0",
+      "changes": [
+        "Centrale read-only woningregisters voor rcore_housing, VMS Housing en ATY Housing met uitsluiting van sleutelhouders en privégegevens.",
+        "JG Mechanic-onderhoud en JG Vehicle Mileage via officiële serverexports; aanvullende providers melden een afgeschermde leesadapter aan.",
+        "Alle registerinstellingen blijven server-side en worden beheerd in Cavida Beheer."
+      ]
+    },
     {
       "version": "1.5.1",
       "changes": [

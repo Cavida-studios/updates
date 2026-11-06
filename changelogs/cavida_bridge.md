@@ -1,5 +1,13 @@
 # cavida_bridge
 
+## 1.6.0
+
+- Centrale read-only woningregisters voor rcore_housing, VMS Housing en ATY Housing met uitsluiting van sleutelhouders en privégegevens.
+- JG Mechanic-onderhoud en JG Vehicle Mileage via officiële serverexports; aanvullende providers melden een afgeschermde leesadapter aan.
+- Alle registerinstellingen blijven server-side en worden beheerd in Cavida Beheer.
+
+Gecontroleerd met lokale MariaDB, API-mocks en browser op telefoon/laptop. Live FiveM-tests op verzoek overgeslagen.
+
 ## 1.5.1
 
 - Blijvende centrale instellingen en audithistorie staan in SQL; KVP wordt alleen gelezen voor eenmalige migratie.
