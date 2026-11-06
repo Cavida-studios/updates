@@ -1,9 +1,18 @@
 {
   "resource": "cavida_bridge",
-  "version": "1.9.1",
+  "version": "1.10.0",
   "status": "stable",
   "download": "https://portal.cfx.re/assets/granted-assets",
   "releases": [
+    {
+      "version": "1.10.0",
+      "changes": [
+        "Centrale AwaitReady-/IsReady-contracten bewaken beide SQL-opslaglagen, instellingenaudit en geladen bridge-instellingen.",
+        "SQL-gereedmelding wordt zonder vaste opstartdeadline afgewacht; initialisatiefouten worden opnieuw geprobeerd zonder lege fallback.",
+        "Gedeelde native Lua-opstartwachtrij behoudt scriptvolgorde en Asset Escrow; clientcode wacht op servergereedmelding.",
+        "SmartFires-broncontracten leveren gecontroleerde brandmeldingen aan Cavida Meldkamer met herkenning van bronuitval en providerherstarts."
+      ]
+    },
     {
       "version": "1.9.1",
       "changes": [

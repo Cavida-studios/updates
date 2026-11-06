@@ -1,3 +1,8 @@
+# cavida_business 0.2.1
+
+- Server- en clientinitialisatie wachten op gereedmelding van Cavida Bridge, centrale instellingen en SQL.
+- Eigen Cavida-afhankelijkheden en SQL-initialisatie worden gecontroleerd voordat de resource gereed wordt gemeld; bestaande gegevens blijven behouden.
+
 # Cavida Business
 
 ## 0.2.0

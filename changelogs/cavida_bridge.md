@@ -1,3 +1,10 @@
+# cavida_bridge 1.10.0
+
+- Centrale AwaitReady-/IsReady-contracten bewaken beide SQL-opslaglagen, instellingenaudit en geladen bridge-instellingen.
+- SQL-gereedmelding wordt zonder vaste opstartdeadline afgewacht; initialisatiefouten worden opnieuw geprobeerd zonder lege fallback.
+- Gedeelde native Lua-opstartwachtrij behoudt scriptvolgorde en Asset Escrow; clientcode wacht op servergereedmelding.
+- SmartFires-broncontracten leveren gecontroleerde brandmeldingen aan Cavida Meldkamer met herkenning van bronuitval en providerherstarts.
+
 # cavida_bridge 1.9.1
 
 - SQL-opslag wacht langer op vertraagde oxmysql-gereedmelding; wachttijd telt geplande polls in plaats van tijd tijdens zware resource-opstart.

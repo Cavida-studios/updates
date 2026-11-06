@@ -1,9 +1,16 @@
 {
   "resource": "cavida_mdt",
-  "version": "0.13.0",
+  "version": "0.13.1",
   "status": "stable",
   "download": "https://portal.cfx.re/assets/granted-assets",
   "releases": [
+    {
+      "version": "0.13.1",
+      "changes": [
+        "Server- en clientinitialisatie wachten op gereedmelding van Cavida Bridge, centrale instellingen en SQL.",
+        "Eigen Cavida-afhankelijkheden en SQL-initialisatie worden gecontroleerd voordat de resource gereed wordt gemeld; bestaande gegevens blijven behouden."
+      ]
+    },
     {
       "version": "0.13.0",
       "changes": [

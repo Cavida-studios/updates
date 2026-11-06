@@ -1,3 +1,8 @@
+# cavida_mdt 0.13.1
+
+- Server- en clientinitialisatie wachten op gereedmelding van Cavida Bridge, centrale instellingen en SQL.
+- Eigen Cavida-afhankelijkheden en SQL-initialisatie worden gecontroleerd voordat de resource gereed wordt gemeld; bestaande gegevens blijven behouden.
+
 # cavida_mdt 0.13.0
 
 - Cavida Meldkamer integreert met bestaande MEOS-meldingen en gescheiden dienstendossiers; revisieconflicten bewaren handmatige wijzigingen.

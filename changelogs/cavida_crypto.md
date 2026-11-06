@@ -1,3 +1,8 @@
+# cavida_crypto 7.0.3
+
+- Server- en clientinitialisatie wachten op gereedmelding van Cavida Bridge, centrale instellingen en SQL.
+- Eigen Cavida-afhankelijkheden en SQL-initialisatie worden gecontroleerd voordat de resource gereed wordt gemeld; bestaande gegevens blijven behouden.
+
 # cavida_crypto
 
 ## 7.0.2

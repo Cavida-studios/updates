@@ -1,3 +1,12 @@
+# cavida_dispatch 1.0.1
+
+- Server- en clientinitialisatie wachten op gereedmelding van Cavida Bridge, centrale instellingen en SQL.
+- Eigen Cavida-afhankelijkheden en SQL-initialisatie worden gecontroleerd voordat de resource gereed wordt gemeld; bestaande gegevens blijven behouden.
+- Meldkamerkaart behoudt geografische verhoudingen met zoomen, verschuiven en efficiënter laden; operationele oproepbediening aangescherpt.
+- SmartFires-brandmeldingen worden met SQL-deduplicatie en bronstatus in de meldkamer verwerkt; uitgiftes blijven onder regie van de centralist.
+- Deurenregie toont veilige, vrijgegeven deurposities en slotstatussen; admincatalogus, slotbediening en SQL-audit met actuele functie- en statuscontrole.
+- Inkomende meldingen geven pas na succesvolle SQL-opslag een melding aan bevoegde online centralisten.
+
 # cavida_dispatch 1.0.0
 
 - Eigen React-meldkamer op Cavida Desktop en web met meldingen, eenheden, statusbeheer en portobediening.
