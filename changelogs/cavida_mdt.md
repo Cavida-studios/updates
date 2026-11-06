@@ -1,5 +1,16 @@
 # cavida_mdt
 
+## 0.8.0
+
+- Begeleid PV-stappenplan op telefoon en laptop, met SQL-concepten per character en server-side automatische invulling.
+- Admins beheren stappen, vragen, antwoordtypen en verplichte velden via Cavida Beheer; concepten bewaren hun eigen vragenlijst.
+- Eenmalige SQL-import van 9.789 officiële Nederlandse wetsartikelen uit 32 regelingen en 64 afzonderlijke RP-strafregels; bestaande gegevens blijven behouden.
+- Doorzoekbaar juridisch naslagwerk met paginering, volledige teksten, bronversies en wetsverwijzingen in processen-verbaal.
+- KMar-jobrollen en dienstnaam centraal instelbaar; militair strafrecht, tuchtrecht, ambtsinstructie en grenswetgeving opgenomen.
+- Revisiecontrole, eigenaarschap, databasefouten en idempotente definitieve PV-opslag gecontroleerd op lokale MariaDB.
+
+Lokale controles uitgevoerd met MariaDB en browser op telefoon- en laptopformaat. Live FiveM-tests op expliciet verzoek overgeslagen.
+
 ## 0.7.0
 
 - MDT-instellingen migreren naar centraal beheer; bestaande dossiers en mail blijven behouden.

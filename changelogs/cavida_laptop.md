@@ -1,5 +1,13 @@
 # cavida_laptop
 
+## 0.7.1
+
+- Visuele PV-editor in Cavida Beheer voor MEOS: stappen en vragen toevoegen, verplaatsen en verwijderen, antwoordtypen, keuzelijsten en automatische invulling.
+- Bestaande invoer blijft zichtbaar wanneer het opslaan van centrale instellingen mislukt.
+- De bestaande centrale serverautorisatie, SQL-opslag, revisiecontrole en herstarttoepassing blijven leidend.
+
+Lokale controles uitgevoerd met MariaDB en browser op telefoon- en laptopformaat. Live FiveM-tests op expliciet verzoek overgeslagen.
+
 ## 0.7.0
 
 - Automatische Cavida Beheer-app voor bevoegde beheerders, zonder wijziging van de bestaande desktopvormgeving.

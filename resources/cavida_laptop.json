@@ -1,9 +1,17 @@
 {
   "resource": "cavida_laptop",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "status": "stable",
   "download": "https://portal.cfx.re/assets/granted-assets",
   "releases": [
+    {
+      "version": "0.7.1",
+      "changes": [
+        "Visuele PV-editor in Cavida Beheer voor MEOS: stappen en vragen toevoegen, verplaatsen en verwijderen, antwoordtypen, keuzelijsten en automatische invulling.",
+        "Bestaande invoer blijft zichtbaar wanneer het opslaan van centrale instellingen mislukt.",
+        "De bestaande centrale serverautorisatie, SQL-opslag, revisiecontrole en herstarttoepassing blijven leidend."
+      ]
+    },
     {
       "version": "0.7.0",
       "changes": [
