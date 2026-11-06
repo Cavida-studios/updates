@@ -1,9 +1,17 @@
 {
   "resource": "cavida_mdt",
-  "version": "0.10.1",
+  "version": "0.11.0",
   "status": "stable",
   "download": "https://portal.cfx.re/assets/granted-assets",
   "releases": [
+    {
+      "version": "0.11.0",
+      "changes": [
+        "Automatische technische APK op laptop en telefoon: meetbare FiveM-schade en beschikbare JG-onderhoudsstatus bepalen de uitslag zonder handmatige checklist.",
+        "Admins beheren automatische keuring, conditiegrenzen en verplichte JG-koppeling via Cavida Beheer.",
+        "Meetwaarden, herkomst, voertuigidentiteit, meetmoment en gebruikte grenzen blijven in SQL bij de onveranderlijke keuring bewaard; handmatige beoordeling blijft apart beschikbaar."
+      ]
+    },
     {
       "version": "0.10.1",
       "changes": [

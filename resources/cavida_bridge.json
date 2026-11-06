@@ -1,9 +1,17 @@
 {
   "resource": "cavida_bridge",
-  "version": "1.6.0",
+  "version": "1.7.0",
   "status": "stable",
   "download": "https://portal.cfx.re/assets/granted-assets",
   "releases": [
+    {
+      "version": "1.7.0",
+      "changes": [
+        "Frameworkonafhankelijke fysieke voertuigdiagnose met servermetingen voor motor, carrosserie en tank en clientmetingen voor banden, koplampen en rijdbaarheid.",
+        "Afgeschermde scanexport met afstands-, stilstand-, instance-, kenteken-, model-, aanvraag- en actuele rolcontrole; fouten geven geen goedkeuring.",
+        "JG-onderhoud levert een afzonderlijke momentopname voor automatische keuringsbewijzen."
+      ]
+    },
     {
       "version": "1.6.0",
       "changes": [

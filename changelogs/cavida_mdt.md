@@ -1,5 +1,13 @@
 # cavida_mdt
 
+## 0.11.0
+
+- Automatische technische APK op laptop en telefoon: meetbare FiveM-schade en beschikbare JG-onderhoudsstatus bepalen de uitslag zonder handmatige checklist.
+- Admins beheren automatische keuring, conditiegrenzen en verplichte JG-koppeling via Cavida Beheer.
+- Meetwaarden, herkomst, voertuigidentiteit, meetmoment en gebruikte grenzen blijven in SQL bij de onveranderlijke keuring bewaard; handmatige beoordeling blijft apart beschikbaar.
+
+Gecontroleerd met echte lokale MariaDB, native/API-mocks en telefoon/laptopbrowser; geen live FiveM-tests op verzoek.
+
 ## 0.10.1
 
 - Politie krijgt een zichtbare tegel Huizen en woonadressen op het MEOS-startscherm.

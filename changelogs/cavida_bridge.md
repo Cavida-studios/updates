@@ -1,5 +1,13 @@
 # cavida_bridge
 
+## 1.7.0
+
+- Frameworkonafhankelijke fysieke voertuigdiagnose met servermetingen voor motor, carrosserie en tank en clientmetingen voor banden, koplampen en rijdbaarheid.
+- Afgeschermde scanexport met afstands-, stilstand-, instance-, kenteken-, model-, aanvraag- en actuele rolcontrole; fouten geven geen goedkeuring.
+- JG-onderhoud levert een afzonderlijke momentopname voor automatische keuringsbewijzen.
+
+Gecontroleerd met echte lokale MariaDB, native/API-mocks en telefoon/laptopbrowser; geen live FiveM-tests op verzoek.
+
 ## 1.6.0
 
 - Centrale read-only woningregisters voor rcore_housing, VMS Housing en ATY Housing met uitsluiting van sleutelhouders en privégegevens.
