@@ -1,9 +1,17 @@
 {
   "resource": "cavida_bridge",
-  "version": "1.7.0",
+  "version": "1.8.0",
   "status": "stable",
   "download": "https://portal.cfx.re/assets/granted-assets",
   "releases": [
+    {
+      "version": "1.8.0",
+      "changes": [
+        "Gedeelde garageleescontracten voor JG, Codesign, VMS, okokGarage, Qbox Garages, QB Garages en ESX Garage, met veilige SQL-projectie en expliciete providerkeuze.",
+        "Actuele OneSync-voertuigposities met instancecontrole en herkenning van dubbele kentekens; leveranciersgegevens worden niet gewijzigd.",
+        "Afgeschermde overdracht naar officiële impoundformulieren van JG, Codesign en VMS met actuele rol-, voertuig-, afstands- en stilstandcontrole."
+      ]
+    },
     {
       "version": "1.7.0",
       "changes": [

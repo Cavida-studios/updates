@@ -1,5 +1,13 @@
 # cavida_bridge
 
+## 1.8.0
+
+- Gedeelde garageleescontracten voor JG, Codesign, VMS, okokGarage, Qbox Garages, QB Garages en ESX Garage, met veilige SQL-projectie en expliciete providerkeuze.
+- Actuele OneSync-voertuigposities met instancecontrole en herkenning van dubbele kentekens; leveranciersgegevens worden niet gewijzigd.
+- Afgeschermde overdracht naar officiële impoundformulieren van JG, Codesign en VMS met actuele rol-, voertuig-, afstands- en stilstandcontrole.
+
+Gecontroleerd met echte lokale MariaDB, officiële API-/nativecontracten met mocks en telefoon-/laptopbrowser. Live FiveM-tests op verzoek overgeslagen.
+
 ## 1.7.0
 
 - Frameworkonafhankelijke fysieke voertuigdiagnose met servermetingen voor motor, carrosserie en tank en clientmetingen voor banden, koplampen en rijdbaarheid.

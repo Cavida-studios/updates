@@ -1,9 +1,18 @@
 {
   "resource": "cavida_mdt",
-  "version": "0.11.0",
+  "version": "0.12.0",
   "status": "stable",
   "download": "https://portal.cfx.re/assets/granted-assets",
   "releases": [
+    {
+      "version": "0.12.0",
+      "changes": [
+        "Voertuigprofielen en mechanicwerkplaats tonen garage-/impoundstatus, bron, beschikbare livepositie, straatnaam, kaartpin en GPS-route.",
+        "Afzonderlijke centraal beheerde rechten voor garage-inzage, live tracking en impound; mechanics zien standaard alleen live voertuigen binnen honderd meter.",
+        "Impoundformulieren vanuit de laptop voor ondersteunde providers; SQL-audit registreert de aanvraag en claimt geen succesvolle inname bij een geannuleerd formulier.",
+        "Rechtbank en Openbaar Ministerie krijgen een garagewerkruimte zonder automatische live tracking."
+      ]
+    },
     {
       "version": "0.11.0",
       "changes": [

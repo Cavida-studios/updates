@@ -1,5 +1,14 @@
 # cavida_mdt
 
+## 0.12.0
+
+- Voertuigprofielen en mechanicwerkplaats tonen garage-/impoundstatus, bron, beschikbare livepositie, straatnaam, kaartpin en GPS-route.
+- Afzonderlijke centraal beheerde rechten voor garage-inzage, live tracking en impound; mechanics zien standaard alleen live voertuigen binnen honderd meter.
+- Impoundformulieren vanuit de laptop voor ondersteunde providers; SQL-audit registreert de aanvraag en claimt geen succesvolle inname bij een geannuleerd formulier.
+- Rechtbank en Openbaar Ministerie krijgen een garagewerkruimte zonder automatische live tracking.
+
+Gecontroleerd met echte lokale MariaDB, officiële API-/nativecontracten met mocks en telefoon-/laptopbrowser. Live FiveM-tests op verzoek overgeslagen.
+
 ## 0.11.0
 
 - Automatische technische APK op laptop en telefoon: meetbare FiveM-schade en beschikbare JG-onderhoudsstatus bepalen de uitslag zonder handmatige checklist.
