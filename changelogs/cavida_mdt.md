@@ -1,5 +1,13 @@
 # cavida_mdt
 
+## 0.10.1
+
+- Politie krijgt een zichtbare tegel Huizen en woonadressen op het MEOS-startscherm.
+- Woningen worden automatisch opgehaald bij het openen van een personenprofiel op laptop en telefoon, met server-side inzagerechten en zichtbare bronfouten.
+- Bij wisselen van persoon worden oude woningresultaten verwijderd en achterhaalde antwoorden genegeerd.
+
+Gecontroleerd in de echte politie-interface op telefoon en laptop, inclusief intrekking bij jobwissel. Geen live FiveM-tests.
+
 ## 0.10.0
 
 - Woningregister op laptop en telefoon voor bevoegde diensten, inclusief rechtbank, met bronvermelding en geaudite inzage zonder politiedossierrechten.

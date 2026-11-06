@@ -1,9 +1,17 @@
 {
   "resource": "cavida_mdt",
-  "version": "0.10.0",
+  "version": "0.10.1",
   "status": "stable",
   "download": "https://portal.cfx.re/assets/granted-assets",
   "releases": [
+    {
+      "version": "0.10.1",
+      "changes": [
+        "Politie krijgt een zichtbare tegel Huizen en woonadressen op het MEOS-startscherm.",
+        "Woningen worden automatisch opgehaald bij het openen van een personenprofiel op laptop en telefoon, met server-side inzagerechten en zichtbare bronfouten.",
+        "Bij wisselen van persoon worden oude woningresultaten verwijderd en achterhaalde antwoorden genegeerd."
+      ]
+    },
     {
       "version": "0.10.0",
       "changes": [
