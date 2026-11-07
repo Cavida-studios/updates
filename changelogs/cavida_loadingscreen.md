@@ -1,3 +1,7 @@
+# cavida_loadingscreen 1.1.1
+
+- Na een bridge-herstart wacht het laadscherm op SQL-gereedmelding voordat het instellingen opnieuw registreert.
+
 # cavida_loadingscreen 1.1.0
 
 - Consoleachtige Cavida-intro met getekend logo, uitzettende lichtkring en geanimeerd woordmerk.

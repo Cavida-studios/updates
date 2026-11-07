@@ -1,9 +1,15 @@
 {
   "resource": "cavida_mdt",
-  "version": "0.13.2",
+  "version": "0.13.3",
   "status": "stable",
   "download": "https://portal.cfx.re/assets/granted-assets",
   "releases": [
+    {
+      "version": "0.13.3",
+      "changes": [
+        "CreateDispatchCall is vanaf het laden beschikbaar en meldt wanneer SQL nog niet gereed is."
+      ]
+    },
     {
       "version": "0.13.2",
       "changes": [

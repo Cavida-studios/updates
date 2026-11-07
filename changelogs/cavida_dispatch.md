@@ -1,3 +1,8 @@
+# cavida_dispatch 1.0.3
+
+- Telefoonadapters kunnen tijdens de opstart registreren. RoadPhone ontvangt ook vóór SQL-gereedmelding een geldig antwoord.
+- CreateIncident en IngestRecording geven tijdens opstart een antwoord waarmee integraties later opnieuw kunnen proberen.
+
 # cavida_dispatch 1.0.2
 
 - Deuren van ondersteunde providers verschijnen automatisch volgens afzonderlijke kijk- en bedienrechten per job, rang en deuruitzondering in Cavida Beheer.

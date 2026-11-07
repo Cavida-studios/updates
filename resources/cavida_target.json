@@ -1,9 +1,15 @@
 {
   "resource": "cavida_target",
-  "version": "1.2.5",
+  "version": "1.2.6",
   "status": "stable",
   "download": "https://portal.cfx.re/assets/granted-assets",
   "releases": [
+    {
+      "version": "1.2.6",
+      "changes": [
+        "Besturingsexports zijn beschikbaar tijdens de opstart. De interactielus wacht op de gereedmelding."
+      ]
+    },
     {
       "version": "1.2.5",
       "changes": [

@@ -1,3 +1,7 @@
+# cavida_prison 2.5.4
+
+- De bestaande standalone-compatibiliteitsexports zijn direct beschikbaar en weigeren schrijfacties zolang de bridge nog opstart.
+
 # cavida_prison 2.5.3
 
 - Het controlepaneel gebruikt MDT-blauw, duidelijkere randen en beter leesbare gedempte tekst.

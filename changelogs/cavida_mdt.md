@@ -1,3 +1,7 @@
+# cavida_mdt 0.13.3
+
+- CreateDispatchCall is vanaf het laden beschikbaar en meldt wanneer SQL nog niet gereed is.
+
 # cavida_mdt 0.13.2
 
 - Afgeschermde werkaccountprofielen voor jobs met uitsluitend deurrechten maken online deurenregie mogelijk zonder politie- of andere dienstrechten.

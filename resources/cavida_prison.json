@@ -1,9 +1,15 @@
 {
   "resource": "cavida_prison",
-  "version": "2.5.3",
+  "version": "2.5.4",
   "status": "stable",
   "download": "https://portal.cfx.re/assets/granted-assets",
   "releases": [
+    {
+      "version": "2.5.4",
+      "changes": [
+        "De bestaande standalone-compatibiliteitsexports zijn direct beschikbaar en weigeren schrijfacties zolang de bridge nog opstart."
+      ]
+    },
     {
       "version": "2.5.3",
       "changes": [

@@ -1,9 +1,16 @@
 {
   "resource": "cavida_laptop",
-  "version": "0.7.6",
+  "version": "0.7.7",
   "status": "stable",
   "download": "https://portal.cfx.re/assets/granted-assets",
   "releases": [
+    {
+      "version": "0.7.7",
+      "changes": [
+        "App- en mailproviders kunnen registreren terwijl SQL nog opstart.",
+        "Bridge-toegangscontrole en mailstatus geven tijdens de opstart een veilig antwoord."
+      ]
+    },
     {
       "version": "0.7.6",
       "changes": [

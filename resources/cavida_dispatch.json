@@ -2,6 +2,13 @@
   "resource": "cavida_dispatch",
   "releases": [
     {
+      "version": "1.0.3",
+      "changes": [
+        "Telefoonadapters kunnen tijdens de opstart registreren. RoadPhone ontvangt ook vóór SQL-gereedmelding een geldig antwoord.",
+        "CreateIncident en IngestRecording geven tijdens opstart een antwoord waarmee integraties later opnieuw kunnen proberen."
+      ]
+    },
+    {
       "version": "1.0.2",
       "changes": [
         "Deuren van ondersteunde providers verschijnen automatisch volgens afzonderlijke kijk- en bedienrechten per job, rang en deuruitzondering in Cavida Beheer.",
@@ -30,7 +37,7 @@
       ]
     }
   ],
-  "version": "1.0.2",
+  "version": "1.0.3",
   "status": "stable",
   "download": "https://portal.cfx.re/assets/granted-assets"
 }

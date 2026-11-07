@@ -1,3 +1,7 @@
+# cavida_target 1.2.6
+
+- Besturingsexports zijn beschikbaar tijdens de opstart. De interactielus wacht op de gereedmelding.
+
 # cavida_target 1.2.5
 
 - De ox_target-registratie-exports voor zones en modellen zijn beschikbaar vóór SQL-gereedmelding, zodat ox_inventory ze tijdens initialisatie kan gebruiken.

@@ -1,3 +1,8 @@
+# cavida_laptop 0.7.7
+
+- App- en mailproviders kunnen registreren terwijl SQL nog opstart.
+- Bridge-toegangscontrole en mailstatus geven tijdens de opstart een veilig antwoord.
+
 # cavida_laptop 0.7.6
 
 - De hostingterminal opent een bekabelde Cavida Desktop zonder laptopitem.
