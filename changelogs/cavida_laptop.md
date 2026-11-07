@@ -1,3 +1,8 @@
+# cavida_laptop 0.7.6
+
+- De hostingterminal opent een bekabelde Cavida Desktop zonder laptopitem.
+- Vaste datacenter-pc’s controleren de nabijheid en wereldinstantie server-side tijdens de sessie.
+
 # cavida_laptop 0.7.5
 
 - Cavida-opstartscherm vóór vergrendeling en aanmelding.
