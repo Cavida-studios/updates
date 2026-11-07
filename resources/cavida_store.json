@@ -1,0 +1,17 @@
+{
+  "resource": "cavida_store",
+  "version": "0.2.1",
+  "status": "stable",
+  "kind": "web-application",
+  "website": "https://cavida.store",
+  "releases": [
+    {
+      "version": "0.2.1",
+      "changes": [
+        "Verlopen en afgeronde Tebex-winkelmanden worden zonder onterechte verbindingsfout opgeruimd.",
+        "Inloggen en toevoegen herstellen een verlopen winkelmandsessie.",
+        "Gerichte melding bij verlopen checkout; tijdelijke Tebex-storingen behouden actieve winkelmanden."
+      ]
+    }
+  ]
+}
