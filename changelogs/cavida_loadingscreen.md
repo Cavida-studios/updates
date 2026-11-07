@@ -1,3 +1,9 @@
+# cavida_loadingscreen 1.1.0
+
+- Consoleachtige Cavida-intro met getekend logo, uitzettende lichtkring en geanimeerd woordmerk.
+- Laadscherm met getrapte overgangen, gebundelde mediabediening en beter passende compacte indeling.
+- Intro overslaan met de knop, Enter of Escape. Verminderde beweging toont direct het laadscherm.
+
 # cavida_loadingscreen 1.0.5
 
 - Server- en clientinitialisatie wachten op gereedmelding van Cavida Bridge, centrale instellingen en SQL.

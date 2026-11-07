@@ -2,6 +2,14 @@
   "resource": "cavida_loadingscreen",
   "releases": [
     {
+      "version": "1.1.0",
+      "changes": [
+        "Consoleachtige Cavida-intro met getekend logo, uitzettende lichtkring en geanimeerd woordmerk.",
+        "Laadscherm met getrapte overgangen, gebundelde mediabediening en beter passende compacte indeling.",
+        "Intro overslaan met de knop, Enter of Escape. Verminderde beweging toont direct het laadscherm."
+      ]
+    },
+    {
       "version": "1.0.5",
       "changes": [
         "Server- en clientinitialisatie wachten op gereedmelding van Cavida Bridge, centrale instellingen en SQL.",
@@ -9,7 +17,7 @@
       ]
     }
   ],
-  "version": "1.0.5",
+  "version": "1.1.0",
   "status": "stable",
   "download": "https://portal.cfx.re/assets/granted-assets"
 }
