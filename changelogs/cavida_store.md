@@ -1,5 +1,12 @@
 # Cavida Store
 
+## 0.2.2
+
+- Bewegende contourlijnen, een Cavida-orbit en licht zwevende assetpreviews.
+- Interactieve productkaarten met subtiel perspectief en cursorlicht.
+- Bewegende studioband, opeenvolgende titel- en sectieovergangen en een geanimeerde Cavida-signatuur.
+- Eén onthouden bewegingspauze voor de nieuwe effecten, met ondersteuning voor minder beweging en mobiele bediening.
+
 ## 0.2.1
 
 - Verlopen en afgeronde Tebex-winkelmanden verwijderen hun oude sessiecookie zonder een verbindingsfout bij het openen van de store.
