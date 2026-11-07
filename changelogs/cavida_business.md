@@ -1,3 +1,7 @@
+# cavida_business 0.2.2
+
+- Bedrijven gebruikt het lichte MDT-kleurenpalet met duidelijke navigatie, statuslabels en toetsenbordfocus.
+
 # cavida_business 0.2.1
 
 - Server- en clientinitialisatie wachten op gereedmelding van Cavida Bridge, centrale instellingen en SQL.

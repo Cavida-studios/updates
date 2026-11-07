@@ -1,3 +1,7 @@
+# cavida_prison 2.5.3
+
+- Het controlepaneel gebruikt MDT-blauw, duidelijkere randen en beter leesbare gedempte tekst.
+
 # cavida_prison 2.5.2
 
 - Server- en clientinitialisatie wachten op gereedmelding van Cavida Bridge, centrale instellingen en SQL.

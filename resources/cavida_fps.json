@@ -1,9 +1,15 @@
 {
   "resource": "cavida_fps",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "status": "stable",
   "download": "https://portal.cfx.re/assets/granted-assets",
   "releases": [
+    {
+      "version": "1.0.5",
+      "changes": [
+        "Het prestatiescherm en de grafiek gebruiken het Cavida-blauwe kleurenpalet."
+      ]
+    },
     {
       "version": "1.0.4",
       "changes": [

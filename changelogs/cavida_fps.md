@@ -1,3 +1,7 @@
+# cavida_fps 1.0.5
+
+- Het prestatiescherm en de grafiek gebruiken het Cavida-blauwe kleurenpalet.
+
 # cavida_fps 1.0.4
 
 - Server- en clientinitialisatie wachten op gereedmelding van Cavida Bridge, centrale instellingen en SQL.

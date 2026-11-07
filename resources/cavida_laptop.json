@@ -1,9 +1,17 @@
 {
   "resource": "cavida_laptop",
-  "version": "0.7.4",
+  "version": "0.7.5",
   "status": "stable",
   "download": "https://portal.cfx.re/assets/granted-assets",
   "releases": [
+    {
+      "version": "0.7.5",
+      "changes": [
+        "Cavida-opstartscherm vóór vergrendeling en aanmelding.",
+        "Cavida Desktop en Werkstation bieden verschillende indelingen, met een per account opgeslagen SQL-voorkeur.",
+        "Beheer en het externe laptopscherm sluiten aan op de MDT-kleuren. De Datacenter- en Ontwikkelstudio-apps krijgen eigen pictogrammen."
+      ]
+    },
     {
       "version": "0.7.4",
       "changes": [

@@ -1,9 +1,15 @@
 {
   "resource": "cavida_prison",
-  "version": "2.5.2",
+  "version": "2.5.3",
   "status": "stable",
   "download": "https://portal.cfx.re/assets/granted-assets",
   "releases": [
+    {
+      "version": "2.5.3",
+      "changes": [
+        "Het controlepaneel gebruikt MDT-blauw, duidelijkere randen en beter leesbare gedempte tekst."
+      ]
+    },
     {
       "version": "2.5.2",
       "changes": [

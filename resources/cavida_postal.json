@@ -1,9 +1,15 @@
 {
   "resource": "cavida_postal",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "status": "stable",
   "download": "https://portal.cfx.re/assets/granted-assets",
   "releases": [
+    {
+      "version": "1.2.3",
+      "changes": [
+        "Het postportaal gebruikt Cavida-blauw en een beter herkenbare paneelindeling in MDT-kleuren."
+      ]
+    },
     {
       "version": "1.2.2",
       "changes": [

@@ -1,3 +1,9 @@
+# cavida_laptop 0.7.5
+
+- Cavida-opstartscherm vóór vergrendeling en aanmelding.
+- Cavida Desktop en Werkstation bieden verschillende indelingen, met een per account opgeslagen SQL-voorkeur.
+- Beheer en het externe laptopscherm sluiten aan op de MDT-kleuren. De Datacenter- en Ontwikkelstudio-apps krijgen eigen pictogrammen.
+
 # cavida_laptop 0.7.4
 
 - Laptop-, USB-, dock- en app-exports zijn direct beschikbaar terwijl de client op bridge en SQL wacht.

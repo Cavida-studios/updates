@@ -1,3 +1,8 @@
+# cavida_crypto 7.0.5
+
+- Lichte MDT-stijl voor de warehousecatalogus en blauwe accenten in het technische Crypto-dashboard.
+- Zichtbare branding in het Crypto-scherm gebruikt Cavida Studios.
+
 # cavida_crypto 7.0.4
 
 - Hardware- en app-exports blijven beschikbaar tijdens uitgestelde initialisatie en weigeren gebruik totdat bridge, server en client gereed zijn.

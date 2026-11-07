@@ -1,9 +1,15 @@
 {
   "resource": "cavida_target",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "status": "stable",
   "download": "https://portal.cfx.re/assets/granted-assets",
   "releases": [
+    {
+      "version": "1.2.4",
+      "changes": [
+        "Blauwe standaardaccenten voor het interactiemenu. Bestaande opgeslagen kleurkeuzes blijven behouden."
+      ]
+    },
     {
       "version": "1.2.3",
       "changes": [

@@ -1,0 +1,17 @@
+{
+  "resource": "cavida_datacenter",
+  "status": "stable",
+  "download": "https://portal.cfx.re/assets/granted-assets",
+  "releases": [
+    {
+      "version": "1.0.0",
+      "changes": [
+        "Websitebouwer, gedeelde formulierapps en persoonlijke tekstcloud op SQL.",
+        "Publicatie per project, opslagquota per rack, onderhoud en capaciteitsuitbreiding.",
+        "Configureerbare K4MB1-shells en losse hardwareprops, waaronder racks, werkstations en routers.",
+        "Optionele externe websitehosting met afzonderlijke toestemming per website."
+      ]
+    }
+  ],
+  "version": "1.0.0"
+}

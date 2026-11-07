@@ -1,0 +1,15 @@
+{
+  "resource": "cavida_devtool",
+  "status": "stable",
+  "download": "https://portal.cfx.re/assets/granted-assets",
+  "releases": [
+    {
+      "version": "1.0.0",
+      "changes": [
+        "Cavida Ontwikkelstudio met een afzonderlijke cavida.devtool ACE en controle van de actieve laptopsessie.",
+        "SQL-concepten voor code en configuratie met regelnummers, revisies, vergelijking, herstel en audit."
+      ]
+    }
+  ],
+  "version": "1.0.0"
+}

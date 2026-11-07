@@ -1,9 +1,15 @@
 {
   "resource": "cavida_business",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "status": "stable",
   "download": "https://portal.cfx.re/assets/granted-assets",
   "releases": [
+    {
+      "version": "0.2.2",
+      "changes": [
+        "Bedrijven gebruikt het lichte MDT-kleurenpalet met duidelijke navigatie, statuslabels en toetsenbordfocus."
+      ]
+    },
     {
       "version": "0.2.1",
       "changes": [

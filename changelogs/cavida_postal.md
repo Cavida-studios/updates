@@ -1,3 +1,7 @@
+# cavida_postal 1.2.3
+
+- Het postportaal gebruikt Cavida-blauw en een beter herkenbare paneelindeling in MDT-kleuren.
+
 # cavida_postal 1.2.2
 
 - Server- en clientinitialisatie wachten op gereedmelding van Cavida Bridge, centrale instellingen en SQL.

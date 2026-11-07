@@ -1,3 +1,7 @@
+# cavida_target 1.2.4
+
+- Blauwe standaardaccenten voor het interactiemenu. Bestaande opgeslagen kleurkeuzes blijven behouden.
+
 # cavida_target 1.2.3
 
 - Server- en clientinitialisatie wachten op gereedmelding van Cavida Bridge, centrale instellingen en SQL.
