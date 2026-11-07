@@ -1,3 +1,7 @@
+# cavida_bridge 1.10.1
+
+- Het manifest vermeldt startup.lua en settings.lua expliciet als bestanden voor imports vanuit andere resources.
+
 # cavida_bridge 1.10.0
 
 - Centrale AwaitReady-/IsReady-contracten bewaken beide SQL-opslaglagen, instellingenaudit en geladen bridge-instellingen.
