@@ -1,10 +1,18 @@
 {
   "resource": "cavida_store",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "status": "stable",
   "kind": "web-application",
   "website": "https://cavida.store",
   "releases": [
+    {
+      "version": "0.2.2",
+      "changes": [
+        "Bewegende Cavida-contourlijnen en licht zwevende assetpreviews.",
+        "Interactieve productkaarten, studioband, titelovergangen en Cavida-signatuur.",
+        "Gezamenlijke bewegingspauze met onthouden voorkeur en ondersteuning voor minder beweging."
+      ]
+    },
     {
       "version": "0.2.1",
       "changes": [
