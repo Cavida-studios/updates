@@ -1,3 +1,10 @@
+# cavida_business 0.3.0
+
+- Beheer bedrijven, keuken, koffie, voorraadkast, kiosk, pinautomaat en meerdere speakers vanuit een in-game beheerscherm.
+- Echte ox_inventory-producten met live voorraad op de laptop, handmatige bereiding en automatische verkoop- en productieregistratie.
+- Pinautomaten, bankbetalingen, omzet en bezorging met een GTA-draagtas en route.
+- Spelers wisselen van aangenomen baan. Beheerders bekijken, zoeken en beheren baanlidmaatschappen.
+
 # cavida_business 0.2.2
 
 - Bedrijven gebruikt het lichte MDT-kleurenpalet met duidelijke navigatie, statuslabels en toetsenbordfocus.

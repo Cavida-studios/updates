@@ -1,9 +1,18 @@
 {
   "resource": "cavida_business",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "status": "stable",
   "download": "https://portal.cfx.re/assets/granted-assets",
   "releases": [
+    {
+      "version": "0.3.0",
+      "changes": [
+        "Beheer bedrijven, keuken, koffie, voorraadkast, kiosk, pinautomaat en meerdere speakers vanuit een in-game beheerscherm.",
+        "Echte ox_inventory-producten met live voorraad op de laptop, handmatige bereiding en automatische verkoop- en productieregistratie.",
+        "Pinautomaten, bankbetalingen, omzet en bezorging met een GTA-draagtas en route.",
+        "Spelers wisselen van aangenomen baan. Beheerders bekijken, zoeken en beheren baanlidmaatschappen."
+      ]
+    },
     {
       "version": "0.2.2",
       "changes": [

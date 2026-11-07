@@ -1,3 +1,8 @@
+# cavida_bridge 1.11.0
+
+- Gedeelde jobcontracten voor Business gebruiken Qbox, QBCore en ESX via de bridge.
+- De bridge beheert echte ox_inventory-bedrijfskasten met servercontrole van actieve baan, afstand en wereldinstantie.
+
 # cavida_bridge 1.10.1
 
 - Het manifest vermeldt startup.lua en settings.lua expliciet als bestanden voor imports vanuit andere resources.

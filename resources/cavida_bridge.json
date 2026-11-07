@@ -1,9 +1,16 @@
 {
   "resource": "cavida_bridge",
-  "version": "1.10.1",
+  "version": "1.11.0",
   "status": "stable",
   "download": "https://portal.cfx.re/assets/granted-assets",
   "releases": [
+    {
+      "version": "1.11.0",
+      "changes": [
+        "Gedeelde jobcontracten voor Business gebruiken Qbox, QBCore en ESX via de bridge.",
+        "De bridge beheert echte ox_inventory-bedrijfskasten met servercontrole van actieve baan, afstand en wereldinstantie."
+      ]
+    },
     {
       "version": "1.10.1",
       "changes": [
