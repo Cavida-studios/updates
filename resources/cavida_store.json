@@ -1,10 +1,17 @@
 {
   "resource": "cavida_store",
-  "version": "0.2.2",
+  "version": "0.2.4",
   "status": "stable",
   "kind": "web-application",
   "website": "https://cavida.store",
   "releases": [
+    {
+      "version": "0.2.4",
+      "changes": [
+        "Ondertekende GitHub-pushes en gepubliceerde releases gaan naar afzonderlijke Discord-kanalen.",
+        "Pushmeldingen tonen commits en gewijzigde bestanden met de Cavida Store-naam en het Cavida-logo."
+      ]
+    },
     {
       "version": "0.2.2",
       "changes": [
