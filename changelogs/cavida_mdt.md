@@ -1,3 +1,10 @@
+# cavida_mdt 0.14.0
+
+- Combine investigations and reports in a single case workspace.
+- Add a citizen report desk and a case-linked intake queue.
+- Add physical evidence vaults with durable deposit receipts and transfer history.
+- Add an optional, rate-limited AI helper for reports, cases and interviews.
+
 # cavida_mdt 0.13.4
 
 - Align the runtime bridge compatibility check with the manifest requirement.

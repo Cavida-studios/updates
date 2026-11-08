@@ -1,3 +1,8 @@
+# cavida_bridge 1.12.0
+
+- Add a protected MEOS evidence vault with durable provider receipts.
+- Mask write-only settings in Cavida Beheer.
+
 # cavida_bridge 1.11.1
 
 - Preserve unreadable settings and save settings and audit history atomically.

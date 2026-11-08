@@ -1,9 +1,16 @@
 {
   "resource": "cavida_bridge",
-  "version": "1.11.1",
+  "version": "1.12.0",
   "status": "stable",
   "download": "https://portal.cfx.re/assets/granted-assets",
   "releases": [
+    {
+      "version": "1.12.0",
+      "changes": [
+        "Add a protected MEOS evidence vault with durable provider receipts.",
+        "Mask write-only settings in Cavida Beheer."
+      ]
+    },
     {
       "version": "1.11.1",
       "changes": [
