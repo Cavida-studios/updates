@@ -1,3 +1,7 @@
+# cavida_dispatch 1.0.4
+
+- Reject unsupported providers regardless of letter case.
+
 # cavida_dispatch 1.0.3
 
 - Telefoonadapters kunnen tijdens de opstart registreren. RoadPhone ontvangt ook vóór SQL-gereedmelding een geldig antwoord.

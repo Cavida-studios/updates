@@ -1,3 +1,8 @@
+# cavida_postal 1.2.4
+
+- Align the bridge compatibility check with the manifest and remove the obsolete configurable minimum.
+- Keep installation instructions focused on Cavida Postal.
+
 # cavida_postal 1.2.3
 
 - Het postportaal gebruikt Cavida-blauw en een beter herkenbare paneelindeling in MDT-kleuren.

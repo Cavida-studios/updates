@@ -1,3 +1,7 @@
+# cavida_mdt 0.13.4
+
+- Align the runtime bridge compatibility check with the manifest requirement.
+
 # cavida_mdt 0.13.3
 
 - CreateDispatchCall is vanaf het laden beschikbaar en meldt wanneer SQL nog niet gereed is.

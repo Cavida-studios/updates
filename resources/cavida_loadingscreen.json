@@ -2,6 +2,12 @@
   "resource": "cavida_loadingscreen",
   "releases": [
     {
+      "version": "1.1.2",
+      "changes": [
+        "Align the runtime and documented bridge requirements with the manifest."
+      ]
+    },
+    {
       "version": "1.1.1",
       "changes": [
         "Na een bridge-herstart wacht het laadscherm op SQL-gereedmelding voordat het instellingen opnieuw registreert."
@@ -23,7 +29,7 @@
       ]
     }
   ],
-  "version": "1.1.1",
+  "version": "1.1.2",
   "status": "stable",
   "download": "https://portal.cfx.re/assets/granted-assets"
 }

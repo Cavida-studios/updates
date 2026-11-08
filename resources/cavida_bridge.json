@@ -1,9 +1,17 @@
 {
   "resource": "cavida_bridge",
-  "version": "1.11.0",
+  "version": "1.11.1",
   "status": "stable",
   "download": "https://portal.cfx.re/assets/granted-assets",
   "releases": [
+    {
+      "version": "1.11.1",
+      "changes": [
+        "Preserve unreadable settings and save settings and audit history atomically.",
+        "Reject conflicting legacy crypto migrations without overwriting the existing backup.",
+        "Remove inventory detection for an unsupported provider and harden update notifications and restart handling."
+      ]
+    },
     {
       "version": "1.11.0",
       "changes": [

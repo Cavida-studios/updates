@@ -1,3 +1,7 @@
+# cavida_laptop 0.7.8
+
+- Align the runtime bridge compatibility check with the manifest requirement.
+
 # cavida_laptop 0.7.7
 
 - App- en mailproviders kunnen registreren terwijl SQL nog opstart.

@@ -1,3 +1,7 @@
+# cavida_fps 1.0.6
+
+- Reject conflicting first-time preference saves instead of confirming another request’s data.
+
 # cavida_fps 1.0.5
 
 - Het prestatiescherm en de grafiek gebruiken het Cavida-blauwe kleurenpalet.

@@ -1,3 +1,9 @@
+# cavida_bridge 1.11.1
+
+- Preserve unreadable settings and save settings and audit history atomically.
+- Reject conflicting legacy crypto migrations without overwriting the existing backup.
+- Remove inventory detection for an unsupported provider and harden update notifications and restart handling.
+
 # cavida_bridge 1.11.0
 
 - Gedeelde jobcontracten voor Business gebruiken Qbox, QBCore en ESX via de bridge.

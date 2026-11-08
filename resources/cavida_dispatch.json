@@ -2,6 +2,12 @@
   "resource": "cavida_dispatch",
   "releases": [
     {
+      "version": "1.0.4",
+      "changes": [
+        "Reject unsupported providers regardless of letter case."
+      ]
+    },
+    {
       "version": "1.0.3",
       "changes": [
         "Telefoonadapters kunnen tijdens de opstart registreren. RoadPhone ontvangt ook vóór SQL-gereedmelding een geldig antwoord.",
@@ -37,7 +43,7 @@
       ]
     }
   ],
-  "version": "1.0.3",
+  "version": "1.0.4",
   "status": "stable",
   "download": "https://portal.cfx.re/assets/granted-assets"
 }

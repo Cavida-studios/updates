@@ -1,9 +1,15 @@
 {
   "resource": "cavida_mdt",
-  "version": "0.13.3",
+  "version": "0.13.4",
   "status": "stable",
   "download": "https://portal.cfx.re/assets/granted-assets",
   "releases": [
+    {
+      "version": "0.13.4",
+      "changes": [
+        "Align the runtime bridge compatibility check with the manifest requirement."
+      ]
+    },
     {
       "version": "0.13.3",
       "changes": [

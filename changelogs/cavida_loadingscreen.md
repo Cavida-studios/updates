@@ -1,3 +1,7 @@
+# cavida_loadingscreen 1.1.2
+
+- Align the runtime and documented bridge requirements with the manifest.
+
 # cavida_loadingscreen 1.1.1
 
 - Na een bridge-herstart wacht het laadscherm op SQL-gereedmelding voordat het instellingen opnieuw registreert.
