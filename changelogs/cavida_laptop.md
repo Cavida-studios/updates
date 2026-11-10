@@ -1,3 +1,15 @@
+# cavida_laptop 0.9.0
+
+- Add a Windows-style first-run wizard with an explicit Linux-style option and keep USB management closed at startup.
+- Expand Cavida Shell with PowerShell and Linux commands for authorized game files and applications.
+- Refine desktop window controls, search, keyboard shortcuts and custom app icons.
+- Allow police and ambulance to use MDT without Wi-Fi through central per-app job rules.
+- Add browser tabs, persistent bookmarks and local website registration with installation guidance.
+- Configure the requested homepage and explain external website embedding restrictions.
+- Guide administrators through new asset settings and provide typed controls for existing settings.
+- Add optional, rate-limited AI explanations that use only setting metadata.
+- Set up each physical laptop once and restore its last open app.
+
 # cavida_laptop 0.7.8
 
 - Align the runtime bridge compatibility check with the manifest requirement.

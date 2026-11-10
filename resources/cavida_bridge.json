@@ -1,9 +1,16 @@
 {
   "resource": "cavida_bridge",
-  "version": "1.12.0",
+  "version": "1.13.0",
   "status": "stable",
   "download": "https://portal.cfx.re/assets/granted-assets",
   "releases": [
+    {
+      "version": "1.13.0",
+      "changes": [
+        "Track new settings in SQL and retain pending setup until an administrator acknowledges them.",
+        "Return field types and protect declared and recognizable secret settings."
+      ]
+    },
     {
       "version": "1.12.0",
       "changes": [

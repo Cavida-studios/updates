@@ -1,3 +1,8 @@
+# cavida_bridge 1.13.0
+
+- Track new settings in SQL and retain pending setup until an administrator acknowledges them.
+- Return field types and protect declared and recognizable secret settings.
+
 # cavida_bridge 1.12.0
 
 - Add a protected MEOS evidence vault with durable provider receipts.
