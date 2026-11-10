@@ -1,9 +1,18 @@
 {
   "resource": "cavida_laptop",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "status": "stable",
   "download": "https://portal.cfx.re/assets/granted-assets",
   "releases": [
+    {
+      "version": "0.9.1",
+      "changes": [
+        "Improve the contrast and text layout of the first-run desktop profile cards.",
+        "Accept desktop lifecycle messages from the FiveM parent frame while rejecting messages from embedded apps.",
+        "Retry opening the desktop until the interface acknowledges it, then show the laptop prop.",
+        "Report throttled laptop open requests and add console-only diagnostics for inventory and SQL profile loading."
+      ]
+    },
     {
       "version": "0.9.0",
       "changes": [
