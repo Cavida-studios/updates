@@ -1,5 +1,10 @@
 # Cavida Store
 
+## 0.2.10
+
+- Grow a Cavida emblem during the opening animation and reveal the asset branches as the intro ends.
+- Play a short muted FiveM aerial loop behind the storefront, with a still image when motion or video playback is unavailable.
+
 ## 0.2.9
 
 - Draw the active trunk and curved branches toward each asset in sequence when a category opens.
