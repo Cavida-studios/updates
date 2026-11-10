@@ -1,5 +1,10 @@
 # Cavida Store
 
+## 0.2.7
+
+- Post commit subjects and grouped file changes in one Discord Changelogs message per branch push.
+- Announce newly published catalog products in Discord Releases with a direct product link.
+
 ## 0.2.2
 
 - Bewegende contourlijnen, een Cavida-orbit en licht zwevende assetpreviews.

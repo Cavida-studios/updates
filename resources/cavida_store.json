@@ -1,10 +1,17 @@
 {
   "resource": "cavida_store",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "status": "stable",
   "kind": "web-application",
   "website": "https://cavida.store",
   "releases": [
+    {
+      "version": "0.2.7",
+      "changes": [
+        "Post commit subjects and grouped file changes in one Discord Changelogs message per branch push.",
+        "Announce newly published catalog products in Discord Releases with a direct product link."
+      ]
+    },
     {
       "version": "0.2.6",
       "changes": [
