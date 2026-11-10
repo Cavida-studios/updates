@@ -1,9 +1,31 @@
 # Cavida Store
 
+## 0.2.8
+
+- Group the Cavida showcase into an animated asset tree with category branches and a single active preview.
+- Browse the collection by category in bounded pages and search across the complete catalog.
+
 ## 0.2.7
 
 - Post commit subjects and grouped file changes in one Discord Changelogs message per branch push.
 - Announce newly published catalog products in Discord Releases with a direct product link.
+
+## 0.2.6
+
+- Migrated notifications to Discord Components V2 and removed source links and contributor identifiers from outgoing messages.
+
+## 0.2.5
+
+- Standardized GitHub push and release notification labels in English.
+
+## 0.2.4
+
+- Discord-leveringen gebruiken Cloudflare-compatibele redirectafhandeling en bevestigen alleen geslaagde webhookrequests.
+
+## 0.2.3
+
+- Ondertekende GitHub-pushes en gepubliceerde releases sturen Cavida-embeds naar afzonderlijke Discord-kanalen.
+- Pushmeldingen tonen commits en gewijzigde bestanden. De Worker ontdubbelt bevestigde leveringen in D1.
 
 ## 0.2.2
 
