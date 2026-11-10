@@ -1,5 +1,10 @@
 # Cavida Store
 
+## 0.2.9
+
+- Draw the active trunk and curved branches toward each asset in sequence when a category opens.
+- Align the branch paths to the desktop and mobile layouts and show them immediately with motion paused.
+
 ## 0.2.8
 
 - Group the Cavida showcase into an animated asset tree with category branches and a single active preview.
