@@ -1,5 +1,9 @@
 # Cavida Store
 
+## 0.2.11
+
+- Replace the storefront background and still image with a neutral Los Angeles skyline.
+
 ## 0.2.10
 
 - Grow a Cavida emblem during the opening animation and reveal the asset branches as the intro ends.
