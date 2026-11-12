@@ -188,5 +188,12 @@
         "GetVersion now reads the actual manifest version."
       ]
     }
-  ]
+  ],
+  "testingRelease": {
+    "version": "1.13.1",
+    "prerelease": true,
+    "changes": [
+      "Expose the active QBCore and Qbox gang through the server-side PlayerData contract."
+    ]
+  }
 }

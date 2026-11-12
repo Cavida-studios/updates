@@ -1,0 +1,14 @@
+{
+  "resource": "cavida_reputation",
+  "status": "testing",
+  "releases": [],
+  "testingRelease": {
+    "version": "1.0.0",
+    "prerelease": true,
+    "changes": [
+      "Add a React reputation dashboard to Cavida Desktop.",
+      "Persist character scores in SQL with a conflict-safe import from the legacy JSON file.",
+      "Add Cavida Bridge character, gang, administration, settings and version-check integration."
+    ]
+  }
+}
