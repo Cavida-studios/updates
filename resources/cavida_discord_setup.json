@@ -1,10 +1,18 @@
 {
   "resource": "cavida_discord_setup",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "status": "stable",
   "kind": "discord-application",
   "url": "https://github.com/Cavida-studios/updates/blob/main/changelogs/cavida_discord_setup.md",
   "releases": [
+    {
+      "version": "1.1.0",
+      "changes": [
+        "Breidt de inrichting uit naar 14 categorieën, 61 kanalen en 14 rollen. Voegt onder meer een cliëntportaal, sollicitatieloket, piket en zittingen, opleiding, ketenoverleg, financiële administratie en dossierbeheer toe.",
+        "Voegt 21 vast te zetten berichten toe met wegwijzers, procesafspraken en kanaalmodellen. Cliënten en kandidaten krijgen leestoegang tot hun algemene informatie.",
+        "Breidt een passende bestaande inrichting uit met behoud van kanaalrechten en roltoewijzingen. De handmatige ticketvoorzet blijft bruikbaar na verwijdering van de setupbot."
+      ]
+    },
     {
       "version": "1.0.0",
       "changes": [
