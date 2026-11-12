@@ -1,0 +1,17 @@
+{
+  "resource": "cavida_discord_setup",
+  "version": "1.0.0",
+  "status": "stable",
+  "kind": "discord-application",
+  "url": "https://github.com/Cavida-studios/updates/blob/main/changelogs/cavida_discord_setup.md",
+  "releases": [
+    {
+      "version": "1.0.0",
+      "changes": [
+        "Richt een Discord-server voor een FiveM-roleplaykantoor eenmalig in met rollen, openbare informatie, besloten team- en dossierkanalen en vaste berichten.",
+        "Levert intake- en dossiermodellen met een handmatige ticketvoorzet.",
+        "Biedt een lokale voorvertoning, een controle van de doelserver en aansluiting op het openbare Cavida-versieregister."
+      ]
+    }
+  ]
+}
