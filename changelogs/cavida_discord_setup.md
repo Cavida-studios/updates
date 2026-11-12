@@ -1,5 +1,9 @@
 # Cavida Discord Setup
 
+## 1.2.0
+
+- Stelt de servernaam en het officiële kantoorbeeldmerk in bij installatie. Ondersteunt ook het afzonderlijk toepassen van de naam en het logo op een ingerichte Discord-server.
+
 ## 1.1.0
 
 - Breidt de inrichting uit naar 14 categorieën, 61 kanalen en 14 rollen. Voegt onder meer een cliëntportaal, sollicitatieloket, piket en zittingen, opleiding, ketenoverleg, financiële administratie en dossierbeheer toe.

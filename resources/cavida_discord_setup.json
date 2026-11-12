@@ -1,10 +1,16 @@
 {
   "resource": "cavida_discord_setup",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "status": "stable",
   "kind": "discord-application",
   "url": "https://github.com/Cavida-studios/updates/blob/main/changelogs/cavida_discord_setup.md",
   "releases": [
+    {
+      "version": "1.2.0",
+      "changes": [
+        "Stelt de servernaam en het officiële kantoorbeeldmerk in bij installatie. Ondersteunt ook het afzonderlijk toepassen van de naam en het logo op een ingerichte Discord-server."
+      ]
+    },
     {
       "version": "1.1.0",
       "changes": [

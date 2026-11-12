@@ -1,0 +1,17 @@
+{
+  "resource": "cavida_advocatuur_portaal",
+  "version": "1.1.0",
+  "kind": "web-application",
+  "status": "stable",
+  "url": "https://github.com/Cavida-studios/updates/blob/main/changelogs/cavida_advocatuur_portaal.md",
+  "releases": [
+    {
+      "version": "1.1.0",
+      "changes": [
+        "Werkt de kantoornaam, het beeldmerk en de teksten bij voor het roleplaykantoor.",
+        "Koppelt de bestaande Discord-app aan de ingerichte Discord-server en begrenst kanaalberichten tot die server.",
+        "Controleert de geïnstalleerde versie via het centrale Cavida-versieregister."
+      ]
+    }
+  ]
+}
