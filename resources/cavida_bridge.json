@@ -1,9 +1,15 @@
 {
   "resource": "cavida_bridge",
-  "version": "1.13.0",
+  "version": "1.13.1",
   "status": "stable",
   "download": "https://portal.cfx.re/assets/granted-assets",
   "releases": [
+    {
+      "version": "1.13.1",
+      "changes": [
+        "Expose the active QBCore and Qbox gang through the server-side PlayerData contract."
+      ]
+    },
     {
       "version": "1.13.0",
       "changes": [
@@ -188,12 +194,5 @@
         "GetVersion now reads the actual manifest version."
       ]
     }
-  ],
-  "testingRelease": {
-    "version": "1.13.1",
-    "prerelease": true,
-    "changes": [
-      "Expose the active QBCore and Qbox gang through the server-side PlayerData contract."
-    ]
-  }
+  ]
 }

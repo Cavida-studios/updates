@@ -1,3 +1,7 @@
+# cavida_bridge 1.13.1
+
+- Expose the active QBCore and Qbox gang through the server-side PlayerData contract.
+
 # cavida_bridge 1.13.0
 
 - Track new settings in SQL and retain pending setup until an administrator acknowledges them.
