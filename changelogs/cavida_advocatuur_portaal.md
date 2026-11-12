@@ -1,5 +1,10 @@
 # Cavida Advocatuurportaal
 
+## 1.2.2
+
+- Houdt dialoogvensters binnen het scherm, met een scrollbaar formulier en bereikbare actieknoppen.
+- Maakt het organisatieregister en de formulieren voor naam, type en eigenaar overzichtelijker op desktop en mobiel.
+
 ## 1.2.1
 
 - Maakt de databasekoppelingen naar organisatie-eigenaars, leden, uitnodigingen en dossiers expliciet.

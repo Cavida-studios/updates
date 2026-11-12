@@ -1,10 +1,17 @@
 {
   "resource": "cavida_advocatuur_portaal",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "kind": "web-application",
   "status": "stable",
   "url": "https://github.com/Cavida-studios/updates/blob/main/changelogs/cavida_advocatuur_portaal.md",
   "releases": [
+    {
+      "version": "1.2.2",
+      "changes": [
+        "Houdt dialoogvensters binnen het scherm, met een scrollbaar formulier en bereikbare actieknoppen.",
+        "Maakt het organisatieregister en de formulieren voor naam, type en eigenaar overzichtelijker op desktop en mobiel."
+      ]
+    },
     {
       "version": "1.2.1",
       "changes": [
