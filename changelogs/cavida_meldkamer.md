@@ -1,5 +1,15 @@
 # Cavida Meldkamer
 
+## 0.3.0 — In development
+
+- Replace the Arcadius complex with an eight-storey Cavida control centre and approximately four times the previous floor area.
+- Replan 72 dispatch stations and support facilities with new curved consoles, 24-hour operator chairs and private shower suites.
+- Correct floor-to-facade joints, guarded atrium edges, door dimensions, bidirectional pivot clearance and circulation obstructions.
+- Add two continuously moving eight-stop lifts with synchronized queues, sliding doors and obstruction handling.
+- Add secured personnel parking with physical vehicle and pedestrian gates, server-side ACE checks and a separate public pedestrian approach.
+- Replace the original tower, podium, garage, LOD/SLOD and collision through targeted native map overrides.
+- Retain development status pending multiplayer FiveM validation.
+
 ## 0.2.0 — In development
 
 This rebuild is intended for in-game validation. No stable release is published.
