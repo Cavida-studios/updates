@@ -1,5 +1,11 @@
 # Cavida Advocatuurportaal
 
+## 1.3.0
+
+- Voegt weekabonnementen per organisatie toe, met inbegrepen uren, een voorschot en een afgesproken minimum.
+- Verwerkt weekfacturen en genummerde creditnota’s automatisch en verrekent ongebruikte minuten op de volgende factuur.
+- Past de Cavida-naam en het beeldmerk toe in het portaal en de kantoorstukken.
+
 ## 1.2.2
 
 - Houdt dialoogvensters binnen het scherm, met een scrollbaar formulier en bereikbare actieknoppen.
