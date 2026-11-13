@@ -1,5 +1,9 @@
 # Cavida Advocatuurportaal
 
+## 1.4.2
+
+- Zet de omschrijving, datum en duur van abonnementswerkzaamheden als inbegrepen regels op de klantfactuur.
+
 ## 1.4.1
 
 - Toont geboekte abonnementsuren bij de factuurregels en het verbruik per week in het organisatieoverzicht.
