@@ -1,5 +1,10 @@
 # Cavida Advocatuurportaal
 
+## 1.4.1
+
+- Toont geboekte abonnementsuren bij de factuurregels en het verbruik per week in het organisatieoverzicht.
+- Verwijst na handmatige verwerking naar de factuurweek met geregistreerde werkzaamheden.
+
 ## 1.4.0
 
 - Toont uitgevoerde werkzaamheden met datum en duur op weekfacturen.
