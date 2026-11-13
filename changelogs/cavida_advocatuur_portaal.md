@@ -1,5 +1,11 @@
 # Cavida Advocatuurportaal
 
+## 1.4.0
+
+- Toont uitgevoerde werkzaamheden met datum en duur op weekfacturen.
+- Zet ongefactureerde declarabele uren klaar op een nieuwe dossierfactuur en koppelt ze bij het opslaan.
+- Stelt 15 minuten voor bij tijdregistratie en boekt documenttijd vanuit een dossier met een actief weekabonnement.
+
 ## 1.3.1
 
 - Herstelt het openen van facturen door de koppeling naar de factuurmaker expliciet te maken.
