@@ -1,5 +1,9 @@
 # Cavida Advocatuurportaal
 
+## 1.4.3
+
+- Laat de huidige portaalrol en accountstatus direct gelden voor bestaande sessies.
+
 ## 1.4.2
 
 - Zet de omschrijving, datum en duur van abonnementswerkzaamheden als inbegrepen regels op de klantfactuur.
