@@ -1,5 +1,17 @@
 # Cavida Meldkamer
 
+## 0.2.0 — In development
+
+This rebuild is intended for in-game validation. No stable release is published.
+
+- Rebuild the complete facility with six furnished levels, a connected atrium and 24 dispatch workstations.
+- Add original corten facades, recessed windows, glazed end walls, finished roofs and detailed interior furniture.
+- Add 46 native hinged door leaves with handles, frames and embedded moving collision.
+- Correct mixed opaque/glass render masks, persistent structural shell visibility and stair room assignment.
+- Correct stair headroom and furniture blocking internal circulation routes.
+- Include staff, technical, training, sanitary, coordination, office and crisis facilities on all six levels.
+- Replace the full previous resource folder; obsolete room models are no longer used.
+
 ## 0.1.0 — In development
 
 This development build is intended for in-game validation. No stable release is published.
