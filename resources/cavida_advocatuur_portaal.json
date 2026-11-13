@@ -1,10 +1,16 @@
 {
   "resource": "cavida_advocatuur_portaal",
-  "version": "1.3.0",
+  "version": "1.3.1",
   "kind": "web-application",
   "status": "stable",
   "url": "https://github.com/Cavida-studios/updates/blob/main/changelogs/cavida_advocatuur_portaal.md",
   "releases": [
+    {
+      "version": "1.3.1",
+      "changes": [
+        "Herstelt het openen van facturen door de koppeling naar de factuurmaker expliciet te maken."
+      ]
+    },
     {
       "version": "1.3.0",
       "changes": [

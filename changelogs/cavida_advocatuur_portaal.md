@@ -1,5 +1,9 @@
 # Cavida Advocatuurportaal
 
+## 1.3.1
+
+- Herstelt het openen van facturen door de koppeling naar de factuurmaker expliciet te maken.
+
 ## 1.3.0
 
 - Voegt weekabonnementen per organisatie toe, met inbegrepen uren, een voorschot en een afgesproken minimum.
