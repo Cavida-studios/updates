@@ -1,5 +1,13 @@
 # Cavida Meldkamer changelog
 
+## 0.5.2 — In development
+
+- Retire all four old Arcadius carpark interior collision variants responsible for the two reported invisible walls and visitor stair obstructions.
+- Complete the glazed entrance vestibule and interlock its public outer and staff-controlled inner doors, including obstruction handling.
+- Use central Cavida Bridge job permissions for the entrance, security office, annex entrance and bridge; retain free exit from occupied areas.
+- Include coordinated courthouse approach and terrain corrections in the shared city assets.
+- Retain development status until the new collision and interlocks have been checked in FiveM.
+
 ## 0.5.1 — In development
 
 - Remove the six retained animated Arcadius lift bases and the protruding original park plinth.

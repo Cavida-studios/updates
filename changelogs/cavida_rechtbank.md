@@ -1,5 +1,16 @@
 # Cavida Rechtbank changelog
 
+## 0.2.1 — In development
+
+- Replan twelve holding cells as two connected, numbered blocks with straight corridors, secure service storage and three-seat observation posts.
+- Enclose the custody arrival bay and route escorted visitors through side intake, search and property storage before the cell corridor.
+- Interlock the vehicle gate and inner transfer door; complete separate glazed public entry and exit vestibules with linked doors.
+- Place reception directly behind screening and restrict judicial offices and deliberation rooms with free exit from inside.
+- Support suspended signs, rebuild bench back supports and refine desk-screen mounting details.
+- Correct courthouse terrain edges, public approach and remaining native pavement interference.
+- Prevent terrain clipping from extrapolating vertices into tall visual and collision spikes.
+- Retain development status pending FiveM visual, collision, navigation and multiplayer validation.
+
 ## 0.2.0 — In development
 
 - Build a full-height glazed screening partition with guarded entrance, separate public exit, detector, baggage conveyor and guard workplace.
