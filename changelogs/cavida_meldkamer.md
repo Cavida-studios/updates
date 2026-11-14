@@ -1,5 +1,14 @@
 # Cavida Meldkamer changelog
 
+## 0.5.1 — In development
+
+- Remove the six retained animated Arcadius lift bases and the protruding original park plinth.
+- Remove the apron surface intersecting the office annex floor and replace dispatch consoles in ordinary offices with custom office desks.
+- Connect the park approach to the measured sidewalk grade with closed edges; clear retained dumpsters and boxes from the visitor approach.
+- Refinish fixed and moving lift thresholds and recover local navigation exclusions without leaking handles during delayed loading.
+- Include coordinated courthouse tree, vehicle-generator, ground and collision patches in the shared city assets.
+- Keep development status: the reported invisible barrier near staff parking still needs an exact in-game hit/position check.
+
 ## 0.5.0 — In development
 
 - Remove retained native primitive collisions, podium remnants, tower models and active Arcadius DLC interiors; coordinate shared map patches with the courthouse.

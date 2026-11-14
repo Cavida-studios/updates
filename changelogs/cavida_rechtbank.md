@@ -1,6 +1,17 @@
 # Cavida Rechtbank changelog
 
-## 0.1.0 â€” In development
+## 0.2.0 — In development
+
+- Build a full-height glazed screening partition with guarded entrance, separate public exit, detector, baggage conveyor and guard workplace.
+- Add a drivable basement custody entrance with two synchronized custom sliding leaves, server-authorized police access and obstruction stopping.
+- Connect vehicle intake, booking, secure circulation and holding cells; secure the public basement stair behind a controlled doorway.
+- Replace the single obstructing cell-wing desks with raised three-person observation posts and accessible ramps.
+- Correct conference room and legal-library entrance obstructions; add ordinary office furniture and defined public waiting areas.
+- Rebuild the glazed bridge with aligned closed profiles and connect stair handrails and the highest-level guard.
+- Refinish lift thresholds and coordinate removal of native trees, old road surfaces and private vehicle spawn points.
+- Retain development status pending FiveM visual, collision, navigation and multiplayer validation.
+
+## 0.1.0 — In development
 
 - Replace the Daily Globe site with a custom six-level courthouse in the same corten and recessed-glass architectural family.
 - Add five ordinary courtrooms, two multi-judge courtrooms and a five-seat supreme-court chamber with original judicial furniture.
