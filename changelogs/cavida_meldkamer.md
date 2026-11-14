@@ -1,5 +1,17 @@
 # Cavida Meldkamer
 
+## 0.4.0 — In development
+
+- Replan the public reception and six meeting rooms on the first building level, changing facilities on the second, offices on the third and 72 dispatch stations on the fourth.
+- Add persistent interior facade liners and window sills to prevent exterior portal clipping from opening visible wall gaps.
+- Remove overlapping lift floor surfaces, correct texture usage metadata and recover misplaced cabin room assignments.
+- Use Cavida Bridge job permissions for police, ambulance and fire, with explicit gate opening and closing and obstruction protection.
+- Add a landscaped public park, low office wing, custom visitor basement parking and a separate public pedestrian stair.
+- Rework remaining Arcadius podium geometry, collision, floating roof pieces, obsolete parked-car generators and pedestrian navigation.
+- Improve interior furnishings, daylight-facing workspaces, planting, entrance canopy and public circulation.
+- Require GTA game build 3889 to match the native map and pedestrian-navigation data.
+- Retain development status pending validation of this new build in FiveM with multiple players.
+
 ## 0.3.0 — In development
 
 - Replace the Arcadius complex with an eight-storey Cavida control centre and approximately four times the previous floor area.
