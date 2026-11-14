@@ -1,9 +1,17 @@
 {
   "resource": "cavida_bridge",
-  "version": "1.13.1",
+  "version": "1.13.5",
   "status": "stable",
   "download": "https://portal.cfx.re/assets/granted-assets",
   "releases": [
+    {
+      "version": "1.13.5",
+      "changes": [
+        "Expose framework job pay and boss grades, plus offline Qbox roster management.",
+        "Expose registered ox_inventory items to Cavida Business.",
+        "Rebind world interactions when target providers change and accept cross-resource FiveM callbacks."
+      ]
+    },
     {
       "version": "1.13.1",
       "changes": [

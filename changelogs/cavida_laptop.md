@@ -1,3 +1,8 @@
+# cavida_laptop 0.9.2
+
+- Use the selected target provider for desktop computers, internet counters, and modem installations.
+- Accept Boolean raycast hits during modem placement.
+
 # cavida_laptop 0.9.0
 
 - Add a Windows-style first-run wizard with an explicit Linux-style option and keep USB management closed at startup.

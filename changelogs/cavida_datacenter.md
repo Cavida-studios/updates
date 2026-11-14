@@ -1,3 +1,7 @@
+# cavida_datacenter 1.1.1
+
+- Use the selected target provider for facility entrances, exits, and hosting terminals.
+
 # cavida_datacenter 1.1.0
 
 - Standaardlocatie Cavida Datacenter Haven met kaartpunt, in- en uitgang en een K4MB1-warehouse-shell.

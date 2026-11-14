@@ -1,3 +1,9 @@
+# cavida_bridge 1.13.5
+
+- Expose framework job pay and boss grades, plus offline Qbox roster management.
+- Expose registered ox_inventory items to Cavida Business.
+- Rebind world interactions when target providers change and accept cross-resource FiveM callbacks.
+
 # cavida_bridge 1.13.1
 
 - Expose the active QBCore and Qbox gang through the server-side PlayerData contract.

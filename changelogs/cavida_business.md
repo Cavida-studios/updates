@@ -1,3 +1,10 @@
+# cavida_business 0.7.2
+
+- Add a Cavida Desktop home with job membership, framework pay, business workspaces, and a boss menu for online and offline Qbox staff.
+- Add music search, shared playlists, looping, and continuous playback across nearby speakers with individually configurable ranges.
+- Add precise placement, editing, and removal of interaction points and inventory-backed recipe editing.
+- Use the selected target provider for venue interactions and improve placement and item catalog feedback.
+
 # cavida_business 0.3.0
 
 - Beheer bedrijven, keuken, koffie, voorraadkast, kiosk, pinautomaat en meerdere speakers vanuit een in-game beheerscherm.

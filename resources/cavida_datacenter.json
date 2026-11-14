@@ -4,6 +4,12 @@
   "download": "https://portal.cfx.re/assets/granted-assets",
   "releases": [
     {
+      "version": "1.1.1",
+      "changes": [
+        "Use the selected target provider for facility entrances, exits, and hosting terminals."
+      ]
+    },
+    {
       "version": "1.1.0",
       "changes": [
         "Standaardlocatie Cavida Datacenter Haven met kaartpunt, in- en uitgang en een K4MB1-warehouse-shell.",
@@ -21,5 +27,5 @@
       ]
     }
   ],
-  "version": "1.1.0"
+  "version": "1.1.1"
 }

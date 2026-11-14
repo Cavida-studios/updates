@@ -1,9 +1,16 @@
 {
   "resource": "cavida_laptop",
-  "version": "0.9.1",
+  "version": "0.9.2",
   "status": "stable",
   "download": "https://portal.cfx.re/assets/granted-assets",
   "releases": [
+    {
+      "version": "0.9.2",
+      "changes": [
+        "Use the selected target provider for desktop computers, internet counters, and modem installations.",
+        "Accept Boolean raycast hits during modem placement."
+      ]
+    },
     {
       "version": "0.9.1",
       "changes": [
