@@ -1,23 +1,15 @@
-# Cavida Studios — resource updates
+# Cavida Studios â€” resource updates
 
-Openbaar versieregister voor Cavida-resources. Deze repository bevat uitsluitend versienummers, changelogs en links; broncode en installatie-ZIPs staan in privé-repositories. Downloads vereisen repositorytoegang of worden via het Cavida-klantenportaal aangeboden.
+Openbaar versieregister voor Cavida-resources. Deze repository bevat uitsluitend versienummers, changelogs en verwijzingen. De daadwerkelijke resources staan in afzonderlijke privÃ©repositories. Uitgebrachte assets worden aan gebruikers geleverd via het Cfx.re-portaal, onder Purchased Assets.
 
-## Resources
+## Centrale controle
 
-- [cavida_bridge](changelogs/cavida_bridge.md) — gedeelde frameworkbridge en updatechecker.
-- [davidcrypto](changelogs/davidcrypto.md) — mining, hardware, warehouses en wallets voor Oosterberg roleplay.
+Start `cavida_bridge` vÃ³Ã³r de aangesloten resources. De bridge registreert resources en controleert hun openbare metadata. Handmatig controleren kan met `cavida_updates` of `cavida_updates <resourcenaam>`. Servers hebben hiervoor geen GitHub-token nodig. Er worden geen updates automatisch geÃ¯nstalleerd of uitgevoerd.
 
-- [cavida_prison](changelogs/cavida_prison.md) — gevangenisbeheer, deurkoppelingen, camera’s en kantineactiviteiten.
+Iedere resource gebruikt een versie met drie getallen en registreert server-side via `exports.cavida_bridge:RegisterResource(GetCurrentResourceName())`, bij de eigen start en opnieuw na een bridge-herstart. Resources implementeren geen afzonderlijke HTTP-updatechecker. Consolemeldingen verwijzen voor levering uitsluitend naar het Cfx.re-portaal.
 
-## Voor serverbeheerders
+## Metadata
 
-Start cavida_bridge vóór de aangesloten resources. De bridge meldt beschikbare updates in de serverconsole, met de wijzigingen sinds je geïnstalleerde versie en een downloadlink. Controleer handmatig via cavida_updates of cavida_updates davidcrypto. Automatische controles vinden bij starten en iedere zes uur plaats. Er worden geen updates automatisch geïnstalleerd. Tokens zijn niet nodig op de gameserver.
+Elke resource heeft `resources/<resourcenaam>.json` en `changelogs/<resourcenaam>.md`, met exact dezelfde resourcenaam als de installatiemap. Houd manifest, releaseadministratie, Git-tag, privÃ©release en openbare metadata consistent. Publiceer alleen werkelijk gepushte en geteste releases.
 
-## Nieuwe resource aansluiten
-
-1. Geef fxmanifest.lua een stabiele versie zoals 1.0.0 en voeg cavida_bridge toe als dependency.
-2. Roep server-side exports.cavida_bridge:RegisterResource(GetCurrentResourceName()) aan bij je eigen resource-start en na bridge-start.
-3. Publiceer resources/<resourcenaam>.json en changelogs/<resourcenaam>.md. Gebruik de exacte resourcenaam, inclusief underscores.
-4. Gebruik tools/release.py uit de privé-resource voor een consistente private release en openbare metadata. Lees daar RELEASING.md.
-
-De JSON bevat resource, version, url (volledige changelog), download en releases: een lijst met version en changes (lijst van tekstregels), nieuwste eerst. Alleen stabiele versies met drie getallen. Plaats geen tokens, klantgegevens, licenties of broncode in deze repository.
+Een ontwikkelrecord bevat `status: development`, `developmentVersion` en een lege lijst `releases`. Dit adverteert geen stabiele update. Een stabiel record bevat `resource`, `version` en `releases` met per versie de wijzigingen. Plaats hier nooit broncode, resource-ZIPs, tokens, klantgegevens of ontwikkelhulpmiddelen.

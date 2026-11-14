@@ -1,4 +1,16 @@
-# Cavida Meldkamer
+# Cavida Meldkamer changelog
+
+## 0.5.0 — In development
+
+- Remove retained native primitive collisions, podium remnants, tower models and active Arcadius DLC interiors; coordinate shared map patches with the courthouse.
+- Rebuild facade cassettes with recessed windows, narrow panel joints and continuous inner liners; connect the office annex through an internal double doorway.
+- Rebuild the atrium stairs with closed risers, sloped soffits, supported handrails and continuous landing connections.
+- Close lift frame gaps and maintain the player and gameplay camera interior room while travelling; restore camera state on exit and shutdown.
+- Replace dispatch desk surfaces and refine monitor supports, controls, keyboard, cabling and floor-mounted pedals.
+- Replace the formal grass grid with curved paths, contoured planting beds and original textured trees, shrubs and groundcover; add physical collisions to exterior furniture and trunks.
+- Add the upper bridge entrance, unlocked only while the companion courthouse resource is running.
+- Keep the existing reception, changing, office and dispatch floor order, visitor garage and Cavida Bridge job-controlled staff parking.
+- Retain development status: native geometry and Lua checks pass locally; multiplayer, navigation decisions, visual streaming and performance still require FiveM validation.
 
 ## 0.4.0 — In development
 
@@ -24,23 +36,25 @@
 
 ## 0.2.0 — In development
 
-This rebuild is intended for in-game validation. No stable release is published.
-
-- Rebuild the complete facility with six furnished levels, a connected atrium and 24 dispatch workstations.
-- Add original corten facades, recessed windows, glazed end walls, finished roofs and detailed interior furniture.
-- Add 46 native hinged door leaves with handles, frames and embedded moving collision.
-- Correct mixed opaque/glass render masks, persistent structural shell visibility and stair room assignment.
-- Correct stair headroom and furniture blocking internal circulation routes.
-- Include staff, technical, training, sanitary, coordination, office and crisis facilities on all six levels.
-- Replace the full previous resource folder; obsolete room models are no longer used.
+- Replace the initial two-storey layout with a complete six-storey control centre and connected atrium galleries.
+- Rebuild the facade with solid corten panels, recessed vertical windows, glazed end walls and finished roofs and soffits.
+- Add 46 native hinged door leaves with original frames, handles, hinge geometry and embedded moving collision.
+- Replace simplified furniture with detailed original workstations, ergonomic chairs, reception, conference furniture, technical racks and staff facilities.
+- Add all six furnished levels with dispatch, briefing, coordination, offices, crisis rooms, pantry, lockers, showers and rest facilities.
+- Correct mixed opaque/glass render masks and place the persistent structural shell in limbo.
+- Keep every stair and landing within one continuous atrium room and correct stair headroom and blocked circulation routes.
+- Add authored normal/specular materials and distinct static display textures.
+- Require full replacement of the previous resource folder because obsolete interior assets have been removed.
+- Retain development status pending FiveM validation; no stable release is advertised.
 
 ## 0.1.0 — In development
-
-This development build is intended for in-game validation. No stable release is published.
 
 - Add the compiled Cavida joint emergency control centre MLO with two levels, stairs and nine interior rooms plus limbo.
 - Add 24 dispatch desks with three static-texture monitors per desk; no live dispatch backend is included.
 - Add original chairs, a video wall, reception desk, server rack and planters.
 - Include briefing, coordination, pantry, locker and toilet areas.
 - Place the facility south of Route 68 in Harmony with a ground-aligned entrance ramp.
-- Register the resource with the central Cavida Bridge version checker and recover registration after bridge restarts.
+- Add scoped vegetation hiding with restoration when the resource stops.
+- Add central version-check registration through Cavida Bridge 1.13.1 or newer.
+- Retry registration safely after resource starts and bridge restarts.
+- Keep development status explicit until FiveM validation and release publication are complete.
