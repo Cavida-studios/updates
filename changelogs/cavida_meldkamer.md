@@ -1,5 +1,13 @@
 # Cavida Meldkamer changelog
 
+## 0.5.3 — ontwikkeling
+
+- Nieuw politiebureau op het voormalige park, met passende onderbouw, voorplein en gemeten aansluiting van de voertuigaanrit.
+- Beveiligde verbinding op bouwlaag vier naar het glazen atrium; een roterende glazen entreecontrole en metalen noodafsluitingen.
+- Gedeelde stadsbestanden herstellen weg, trottoir, navigatie en straatobjecten langs de verkleinde rechtbank.
+- Eerdere oplossingen voor de twee gemelde onzichtbare muren en parkeerkelder blijven behouden.
+- Nog niet als stabiele FiveM-release gepubliceerd.
+
 ## 0.5.2 — In development
 
 - Retire all four old Arcadius carpark interior collision variants responsible for the two reported invisible walls and visitor stair obstructions.

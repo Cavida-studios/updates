@@ -1,5 +1,13 @@
 # Cavida Rechtbank changelog
 
+## 0.2.2 — ontwikkeling
+
+- Oostelijke gebouwgrens en terrein teruggelegd binnen het perceel; zalen, kantoren, ontvangst en celpost aangepast aan de nieuwe gevel.
+- Loopbrug opnieuw aangesloten met een afgesloten, beveiligde vestibule.
+- Intakeportaal gesloten afgewerkt met echte dagkanten en een vrijgehouden voertuigopening.
+- Roterende glazen bezoekerscontrole en metalen noodafsluitingen bij brug en arrestantentransfer; de celtransfer blijft alleen voor bevoegd personeel.
+- Nog niet als stabiele FiveM-release gepubliceerd.
+
 ## 0.2.1 — In development
 
 - Replan twelve holding cells as two connected, numbered blocks with straight corridors, secure service storage and three-seat observation posts.
