@@ -1,11 +1,19 @@
 {
   "resource": "cavida_workspace",
-  "version": "0.1.0",
-  "tag": "v0.1.0",
+  "version": "0.2.0",
+  "tag": "v0.2.0",
   "status": "stable",
-  "sha256": "ff4047a3bd3491dd437e7c59719694af82f4a33bd45a4de0842f56661dc63d91",
-  "signature": "De1YxqNdFbe5jJOzltbZ8BrY/v+GZxC4nPcbkQ2WZRO+ucZk7Hl4UNO3SQLOQjb5Abv6xTdCpU87NaeYv1eZCA==",
+  "sha256": "c4f21bfa83b6c3a7b692fd2a756fe32eb68e98de885132a0761ec21c4da0b96f",
+  "signature": "F3ReRLILLSQZwMGJgRMv6XXhxhrwDf1D+Az6AV2HTP0D0UFZvUND0a9SAaUDFeqXbW/nv/eNKunEEbt7awLrBA==",
   "releases": [
+    {
+      "version": "0.2.0",
+      "changes": [
+        "Vernieuwd Windows-venster met projectnavigatie, projectbord en een eigen assistenttab.",
+        "Chat met je bestaande ChatGPT-aanmelding via een lokale engine. Cavida start geen apart chatvenster en gebruikt geen API-sleutels.",
+        "Projectcontext, vervolgvraag en optionele codebijlage in de ingebouwde chat."
+      ]
+    },
     {
       "version": "0.1.0",
       "changes": [
