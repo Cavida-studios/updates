@@ -1,0 +1,19 @@
+{
+  "resource": "cavida_workspace",
+  "version": "0.1.0",
+  "tag": "v0.1.0",
+  "status": "stable",
+  "sha256": "ff4047a3bd3491dd437e7c59719694af82f4a33bd45a4de0842f56661dc63d91",
+  "signature": "De1YxqNdFbe5jJOzltbZ8BrY/v+GZxC4nPcbkQ2WZRO+ucZk7Hl4UNO3SQLOQjb5Abv6xTdCpU87NaeYv1eZCA==",
+  "releases": [
+    {
+      "version": "0.1.0",
+      "changes": [
+        "Windows-werkruimte met gedeelde projecten, todo’s, skills en regels.",
+        "Toewijzing, status, laatste wijziging en bescherming tegen gelijktijdig overschrijven.",
+        "Eigen accounts met TPM-apparaatsleutels en goedkeuring en intrekking door een beheerder.",
+        "Lokale Codex CLI-koppeling en automatisch downloaden van ondertekende updates."
+      ]
+    }
+  ]
+}
