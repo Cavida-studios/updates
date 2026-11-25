@@ -1,11 +1,17 @@
 {
   "resource": "cavida_workspace",
-  "version": "0.2.1",
-  "tag": "v0.2.1",
+  "version": "0.2.2",
+  "tag": "v0.2.2",
   "status": "stable",
-  "sha256": "45de8df6a2b6ed01132cf4dc8039db08218a1fec53612163542ca7fd70ea625e",
-  "signature": "a27WGf+EiPnvaFfr18IhnjUh8/siYVErcvCxcFFsG4x580E84obr8OkLlAaiCLNG9bCd9iOWaIS8yd3+clZVAA==",
+  "sha256": "221c35fb347a1df0ae31312bf24af7384fb48a9eb87da67cc86cd9602508db00",
+  "signature": "D+Ox4dIDz1bawJmfeUx+xfJ/6kEo1W+Pl/QjB9I6HFKvBjSylg4xDHr1ax9xeigTK/mxvmVjkxDn8gzjgurqAA==",
   "releases": [
+    {
+      "version": "0.2.2",
+      "changes": [
+        "Beheerders maken accounts aan vanuit **Gebruikers**. Elk nieuw lid krijgt een gegenereerd startwachtwoord en doorloopt de bestaande apparaatgoedkeuring."
+      ]
+    },
     {
       "version": "0.2.1",
       "changes": [
