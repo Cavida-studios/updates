@@ -1,11 +1,21 @@
 {
   "resource": "cavida_workspace",
-  "version": "0.4.1",
-  "tag": "v0.4.1",
+  "version": "0.5.0",
+  "tag": "v0.5.0",
   "status": "stable",
-  "sha256": "4d49264f94062b0e22e44361a97842a5d82b62ae03ce7f16e231948d8a3e52ff",
-  "signature": "Hg3+tHa7xNUGMIcPnKs5JQlvP6xvSVQ3ZxE8+l/G0DMXeyWSUoN9oc4bZ0D8+wZC1x1np9a0sSPUEVK/720uDA==",
+  "sha256": "4f97d85cbf4ac0ca5924a6be1fb7e0f4909ed2bfc645a31b8a634a0bf1579465",
+  "signature": "3b4OIURv20i83xoLLdWGSnXc7+gT/8wKL4QLDiQ9llf6zDceDPeyAOHG50j9ZAyiJZ016ZZDwha6Ta8caFvlAA==",
   "releases": [
+    {
+      "version": "0.5.0",
+      "changes": [
+        "Genereer vanuit een briefing een FiveM-basisresource met actuele Cavida Bridge-contracten en centrale versiecontrole, lokaal gestaged voor review.",
+        "Vul haakjes, aanhalingstekens en Cavida Bridge-exports aan. Voeg snippets in voor Qbox, QBCore, ESX en standalone.",
+        "Stel vragen over de repository vanuit Code. De assistent doorzoekt versiebeheerde bronbestanden op relevante context.",
+        "Geef een repositorybrede wijzigingsopdracht en review voorstellen per bestand voordat je ze opslaat.",
+        "Maak een project met een nieuwe privérepository of koppel een bestaande repository vanuit hetzelfde formulier."
+      ]
+    },
     {
       "version": "0.4.1",
       "changes": [
