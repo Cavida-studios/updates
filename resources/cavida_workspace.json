@@ -1,11 +1,17 @@
 {
   "resource": "cavida_workspace",
-  "version": "0.4.0",
-  "tag": "v0.4.0",
+  "version": "0.4.1",
+  "tag": "v0.4.1",
   "status": "stable",
-  "sha256": "421229e0e072442c424308fe4038d45cbc64fde06f12e5009e665f06f71a8001",
-  "signature": "6bwuUqt/eTu683XwMejXeFRpEX4hMQwW76p470mZMOLsAODWPiOinkS/4dwfrHDjNirN1jVqsy6jY22JxhnnBQ==",
+  "sha256": "4d49264f94062b0e22e44361a97842a5d82b62ae03ce7f16e231948d8a3e52ff",
+  "signature": "Hg3+tHa7xNUGMIcPnKs5JQlvP6xvSVQ3ZxE8+l/G0DMXeyWSUoN9oc4bZ0D8+wZC1x1np9a0sSPUEVK/720uDA==",
   "releases": [
+    {
+      "version": "0.4.1",
+      "changes": [
+        "Installeer GitHub CLI, Git en de ChatGPT-engine automatisch wanneer een actie ze nodig heeft. Start de benodigde browseraanmelding en vervolg daarna de actie."
+      ]
+    },
     {
       "version": "0.4.0",
       "changes": [
