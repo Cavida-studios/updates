@@ -1,11 +1,20 @@
 {
   "resource": "cavida_workspace",
-  "version": "0.5.0",
-  "tag": "v0.5.0",
+  "version": "0.5.2",
+  "tag": "v0.5.2",
   "status": "stable",
-  "sha256": "4f97d85cbf4ac0ca5924a6be1fb7e0f4909ed2bfc645a31b8a634a0bf1579465",
-  "signature": "3b4OIURv20i83xoLLdWGSnXc7+gT/8wKL4QLDiQ9llf6zDceDPeyAOHG50j9ZAyiJZ016ZZDwha6Ta8caFvlAA==",
+  "sha256": "e12977e0c4ed76ce6fb162fdae9a7b87ed46c587d675467c7475377b6d0a0703",
+  "signature": "nj1rYpNunx0T6E2Q9h3hrxvTPjXfBZlfuF8Yw3H9D9pYWEH4LIKf1JaFJQu21dw/CKADr0Ma0OBH4hG9uF3HAg==",
   "releases": [
+    {
+      "version": "0.5.2",
+      "changes": [
+        "Compacte linkernavigatie, projectzijbalk en accountmenu linksonder.",
+        "Donkere codewerkruimte met een gesprek, editor en bestanden naast elkaar.",
+        "Vernieuwde donkere Cavida-interface voor aanmelden, projecten, editor, repositorychat en beheer.",
+        "Compacte werkbalk, doorzoekbare projectlijst en één accountmenu met serveradres, updates en beheer."
+      ]
+    },
     {
       "version": "0.5.0",
       "changes": [
