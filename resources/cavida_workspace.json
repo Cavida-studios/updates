@@ -1,11 +1,17 @@
 {
   "resource": "cavida_workspace",
-  "version": "0.3.1",
-  "tag": "v0.3.1",
+  "version": "0.3.2",
+  "tag": "v0.3.2",
   "status": "stable",
-  "sha256": "2f8eec74cc9c743366cbe0dd0037a0c16a2f40ae643a4e0a486250dcfb63960a",
-  "signature": "3QZWgjyPDFdPr2+8dQ6HsRFPVsj0zUpcknSCujlW+dawg6qL1Zf4VEp22rYRIYfz3Y+ArYK43a3VgFPaJib4Bg==",
+  "sha256": "05f9b14bca9e8ad6ef1e59146350e0465adbd38bec35d42afe7a998a61861076",
+  "signature": "NHigiH/LhaxmgZ2E/4of/EY/kvQZ33Cnzh/FCbdt6kYR5Z3Jhv03jxSkjGOiSH0TdbCZ8LdgDQ1pB1rK08jxCA==",
   "releases": [
+    {
+      "version": "0.3.2",
+      "changes": [
+        "Sta voor expliciet toegestane accounts een Windows-profielsleutel toe als TPM niet werkt. Apparaatgoedkeuring blijft vereist."
+      ]
+    },
     {
       "version": "0.3.1",
       "changes": [
