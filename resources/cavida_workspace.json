@@ -1,11 +1,20 @@
 {
   "resource": "cavida_workspace",
-  "version": "0.2.2",
-  "tag": "v0.2.2",
+  "version": "0.3.0",
+  "tag": "v0.3.0",
   "status": "stable",
-  "sha256": "221c35fb347a1df0ae31312bf24af7384fb48a9eb87da67cc86cd9602508db00",
-  "signature": "D+Ox4dIDz1bawJmfeUx+xfJ/6kEo1W+Pl/QjB9I6HFKvBjSylg4xDHr1ax9xeigTK/mxvmVjkxDn8gzjgurqAA==",
+  "sha256": "68276e6f1b20af8add6521a8c3df53564660afe7c794c27977ae77889888213d",
+  "signature": "U1VoN59v4puZ1SaKn3NVbaGMMv2K44VSrxObQOCwrqPVTGguloHs5yAZfifSvZWJ/DarI865SnDWGH+RwZMDAw==",
   "releases": [
+    {
+      "version": "0.3.0",
+      "changes": [
+        "Open repositorycode, de lokale checkout en releasebeheer vanuit Cavida. Maak nieuwe private Cavida-repositories aan.",
+        "Controleer de staged diff en open een pull request op een aparte branch met een aangewezen reviewer.",
+        "Verbind een repository met de bestaande websitewebhook voor Discord-updatelogs.",
+        "Cavida herstart na een gecontroleerde update en toont een laadanimatie."
+      ]
+    },
     {
       "version": "0.2.2",
       "changes": [
