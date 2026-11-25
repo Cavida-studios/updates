@@ -1,11 +1,21 @@
 {
   "resource": "cavida_workspace",
-  "version": "0.2.0",
-  "tag": "v0.2.0",
+  "version": "0.2.1",
+  "tag": "v0.2.1",
   "status": "stable",
-  "sha256": "c4f21bfa83b6c3a7b692fd2a756fe32eb68e98de885132a0761ec21c4da0b96f",
-  "signature": "F3ReRLILLSQZwMGJgRMv6XXhxhrwDf1D+Az6AV2HTP0D0UFZvUND0a9SAaUDFeqXbW/nv/eNKunEEbt7awLrBA==",
+  "sha256": "45de8df6a2b6ed01132cf4dc8039db08218a1fec53612163542ca7fd70ea625e",
+  "signature": "a27WGf+EiPnvaFfr18IhnjUh8/siYVErcvCxcFFsG4x580E84obr8OkLlAaiCLNG9bCd9iOWaIS8yd3+clZVAA==",
   "releases": [
+    {
+      "version": "0.2.1",
+      "changes": [
+        "Nieuwe Windows-interface met een geanimeerde projectzijbalk, taakkaarten en ingebouwde chat via WebView2.",
+        "Repositoryoverzicht met zoeken en rechtstreeks openen op GitHub.",
+        "Stel een persoonlijk wachtwoord in en meld daarna automatisch aan met je goedgekeurde TPM-apparaat.",
+        "Selecteer een bestaande private Cavida-repository of gebruik een korte naam of GitHub-link. Cavida vult de projectnaam in.",
+        "De Windows-launcher haalt actuele, ondertekende versiegegevens op via de centrale metadata-API."
+      ]
+    },
     {
       "version": "0.2.0",
       "changes": [
