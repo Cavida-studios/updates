@@ -1,11 +1,19 @@
 {
   "resource": "cavida_workspace",
-  "version": "0.3.0",
-  "tag": "v0.3.0",
+  "version": "0.3.1",
+  "tag": "v0.3.1",
   "status": "stable",
-  "sha256": "68276e6f1b20af8add6521a8c3df53564660afe7c794c27977ae77889888213d",
-  "signature": "U1VoN59v4puZ1SaKn3NVbaGMMv2K44VSrxObQOCwrqPVTGguloHs5yAZfifSvZWJ/DarI865SnDWGH+RwZMDAw==",
+  "sha256": "2f8eec74cc9c743366cbe0dd0037a0c16a2f40ae643a4e0a486250dcfb63960a",
+  "signature": "3QZWgjyPDFdPr2+8dQ6HsRFPVsj0zUpcknSCujlW+dawg6qL1Zf4VEp22rYRIYfz3Y+ArYK43a3VgFPaJib4Bg==",
   "releases": [
+    {
+      "version": "0.3.1",
+      "changes": [
+        "Maak, bewerk en stage tekstbestanden in de ingebouwde editor. Bekijk een AI-diff voordat je een voorstel overneemt.",
+        "Werk direct vanuit een project of taak met de assistent. Voeg repositorybestanden toe en zet antwoorden om in gedeelde todo’s.",
+        "Kopieer het serveradres vanuit de zijbalk of deel een nieuwe gebruikersuitnodiging met serveradres."
+      ]
+    },
     {
       "version": "0.3.0",
       "changes": [
