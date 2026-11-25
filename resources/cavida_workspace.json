@@ -1,11 +1,19 @@
 {
   "resource": "cavida_workspace",
-  "version": "0.3.2",
-  "tag": "v0.3.2",
+  "version": "0.4.0",
+  "tag": "v0.4.0",
   "status": "stable",
-  "sha256": "05f9b14bca9e8ad6ef1e59146350e0465adbd38bec35d42afe7a998a61861076",
-  "signature": "NHigiH/LhaxmgZ2E/4of/EY/kvQZ33Cnzh/FCbdt6kYR5Z3Jhv03jxSkjGOiSH0TdbCZ8LdgDQ1pB1rK08jxCA==",
+  "sha256": "421229e0e072442c424308fe4038d45cbc64fde06f12e5009e665f06f71a8001",
+  "signature": "6bwuUqt/eTu683XwMejXeFRpEX4hMQwW76p470mZMOLsAODWPiOinkS/4dwfrHDjNirN1jVqsy6jY22JxhnnBQ==",
   "releases": [
+    {
+      "version": "0.4.0",
+      "changes": [
+        "Codewerkruimte met projectgesprek naast de editor, bestandenzoeker, regelnummers en sneltoetsen.",
+        "Start een todo direct met AI en bekijk de codewijziging voordat je die overneemt.",
+        "Kies expliciet chatmodus, model en denkniveau. GPT-6 Luna met laag denkniveau is de standaard."
+      ]
+    },
     {
       "version": "0.3.2",
       "changes": [
