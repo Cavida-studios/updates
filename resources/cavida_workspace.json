@@ -1,11 +1,19 @@
 {
   "resource": "cavida_workspace",
-  "version": "0.8.0",
-  "tag": "v0.8.0",
+  "version": "0.8.1",
+  "tag": "v0.8.1",
   "status": "stable",
-  "sha256": "9b7840577ace291f06af9a543230527392073e3b05f25a999b495ec981c9d3bf",
-  "signature": "OXW9LVKiLlNXM5xbOF+/vYMQDRmYL4AlYtfLRzWI8q0YweF1f2ww4BqLa5I83Fak6luOL0eH4tv5wIe+EPnBAg==",
+  "sha256": "979de9fff233229988bff6cd2e0e02c321a485de6c59c8643c1fa6c574d68d7f",
+  "signature": "1ymd27/bK1PoiRIB/ghKN/46YqgzgjSsnZveW2f299SaiDGda1YEaZ3YprlaoBA4zidvMmfahHAQUHpthpBOCg==",
   "releases": [
+    {
+      "version": "0.8.1",
+      "changes": [
+        "Maak en merge een pull request na review in Cavida. GitHub bepaalt welke goedkeuring en checks nodig zijn.",
+        "Volg de voorbereiding, verwerking en ontvangen antwoordtekst live in de assistent.",
+        "Bewerk meer configuratie- en bronbestanden tot 512 kB. Bij alleen-lezenbestanden toont Cavida de reden."
+      ]
+    },
     {
       "version": "0.8.0",
       "changes": [
