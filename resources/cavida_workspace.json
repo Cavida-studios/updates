@@ -1,11 +1,17 @@
 {
   "resource": "cavida_workspace",
-  "version": "0.10.1",
-  "tag": "v0.10.1",
+  "version": "0.10.2",
+  "tag": "v0.10.2",
   "status": "stable",
-  "sha256": "1fa824f1f80fb568c73313ac03d2424ba498be9ab0d39aed483f7ddaea30aa10",
-  "signature": "AFTu1ryL9RHPiGD0IkgE2SaranqS1NWzUaa+ntivvyHYAJ8+ntmxE8PfeiKJ3SOeTI7YEM5JotdHgqRvb7F0Cw==",
+  "sha256": "35a3cfe42bb9933b9c87290a4d6cbdfbb3ec96b83cc82871fbd7accb8266cc33",
+  "signature": "RsFO1O83QgexOMlrfEV3Z2VjfOcbR48uYEmoWkv3XDMhZV65RTf8xy9h5uEPzUqLWcCpTspHf6lTM/+OElfFAA==",
   "releases": [
+    {
+      "version": "0.10.2",
+      "changes": [
+        "Bereid een Git-review automatisch voor op de nieuwste standaardbranch als de lokale checkout achterloopt. Meld conflicten met de betrokken bestanden."
+      ]
+    },
     {
       "version": "0.10.1",
       "changes": [
