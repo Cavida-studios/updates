@@ -1,11 +1,19 @@
 {
   "resource": "cavida_workspace",
-  "version": "0.8.1",
-  "tag": "v0.8.1",
+  "version": "0.9.0",
+  "tag": "v0.9.0",
   "status": "stable",
-  "sha256": "979de9fff233229988bff6cd2e0e02c321a485de6c59c8643c1fa6c574d68d7f",
-  "signature": "1ymd27/bK1PoiRIB/ghKN/46YqgzgjSsnZveW2f299SaiDGda1YEaZ3YprlaoBA4zidvMmfahHAQUHpthpBOCg==",
+  "sha256": "09a75bce6c056146a5bc8af1ee6f3f23206eb243ad8cb9fb22a8611fc1edb542",
+  "signature": "NuLtsjtChG/w5xtlr8S72t0f+YJs6DqX6t2z1Q6QX8tf45wFsKvRnGmc0jj1qyFKIQ1QvjqQzFEQi877nej3Aw==",
   "releases": [
+    {
+      "version": "0.9.0",
+      "changes": [
+        "Start gedeelde gespreksthreads in Teamchat en tag collega’s, projecten of todo’s.",
+        "Open het juiste project of de todo vanuit een tag en zie ongelezen vermeldingen in de zijbalk.",
+        "Gebruik het nieuwe Cavida-logo in de app en bij het opstarten met een korte 3D-animatie."
+      ]
+    },
     {
       "version": "0.8.1",
       "changes": [
