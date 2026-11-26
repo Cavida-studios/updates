@@ -1,11 +1,19 @@
 {
   "resource": "cavida_workspace",
-  "version": "0.5.2",
-  "tag": "v0.5.2",
+  "version": "0.6.0",
+  "tag": "v0.6.0",
   "status": "stable",
-  "sha256": "e12977e0c4ed76ce6fb162fdae9a7b87ed46c587d675467c7475377b6d0a0703",
-  "signature": "nj1rYpNunx0T6E2Q9h3hrxvTPjXfBZlfuF8Yw3H9D9pYWEH4LIKf1JaFJQu21dw/CKADr0Ma0OBH4hG9uF3HAg==",
+  "sha256": "abc9e56564334a6fb4e44c4cec9c6a294fe5b0b50dc0428065088555285e461a",
+  "signature": "+qZb4BOonUIUH1UyzMwwZ3KkhzDXnY8tJA6Tzc/y9MfhXT9OAen7a804GobpKVq55bBBW3fbyWs2oGOIvg1DCQ==",
   "releases": [
+    {
+      "version": "0.6.0",
+      "changes": [
+        "Klap de projectzijbalk in en uit. Cavida onthoudt de keuze.",
+        "Blader door uitklapbare repositorymappen, filter bestanden en open leesweergave of editor.",
+        "Bouw npm-projecten in Cavida, bekijk de uitvoer en start of stop een lokale Vite- of Next.js-preview."
+      ]
+    },
     {
       "version": "0.5.2",
       "changes": [
