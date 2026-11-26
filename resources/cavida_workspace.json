@@ -1,11 +1,19 @@
 {
   "resource": "cavida_workspace",
-  "version": "0.6.2",
-  "tag": "v0.6.2",
+  "version": "0.7.0",
+  "tag": "v0.7.0",
   "status": "stable",
-  "sha256": "26d438b4640585caa796aca57b081b669c99e4434059a64a600db165ce7cd61a",
-  "signature": "h5O8qQf3jUV9f9U+XxOw0TS1o0hvJoROMXCGWIW8D9mHxWCfOlxTiJqzYMFITPQJf3mBnVDxBABr+tSbrX/4AA==",
+  "sha256": "47a05fcdf9483218f7c9fafa55a1c0fea93e6bf02ed745babce52475e0fb8b63",
+  "signature": "6cpoVIU5+4V4J1+pI1e8lNg0YtFToe7eD1oyZ/Vsd3bAeoF62XUlqEkQqLT5OSyIfvpV9ixSUlbfqVBKKGSVBA==",
   "releases": [
+    {
+      "version": "0.7.0",
+      "changes": [
+        "Synchroniseer de gedeelde projectlijst en laat zien wie een project open heeft.",
+        "Voeg gedeelde projectnotities toe en haal projecten als beheerder uit de gezamenlijke lijst.",
+        "Schuif de pictogrambalk uit voor tekstlabels en download de hele repository via een duidelijk benoemde knop."
+      ]
+    },
     {
       "version": "0.6.2",
       "changes": [
