@@ -1,11 +1,21 @@
 {
   "resource": "cavida_workspace",
-  "version": "0.7.0",
-  "tag": "v0.7.0",
+  "version": "0.8.0",
+  "tag": "v0.8.0",
   "status": "stable",
-  "sha256": "47a05fcdf9483218f7c9fafa55a1c0fea93e6bf02ed745babce52475e0fb8b63",
-  "signature": "6cpoVIU5+4V4J1+pI1e8lNg0YtFToe7eD1oyZ/Vsd3bAeoF62XUlqEkQqLT5OSyIfvpV9ixSUlbfqVBKKGSVBA==",
+  "sha256": "9b7840577ace291f06af9a543230527392073e3b05f25a999b495ec981c9d3bf",
+  "signature": "OXW9LVKiLlNXM5xbOF+/vYMQDRmYL4AlYtfLRzWI8q0YweF1f2ww4BqLa5I83Fak6luOL0eH4tv5wIe+EPnBAg==",
   "releases": [
+    {
+      "version": "0.8.0",
+      "changes": [
+        "Geef de editor de volledige hoogte. Lange bestanden scrollen binnen de editor, met vaste werkbalken en meelopende regelnummers.",
+        "Klap Navigatie en Projecten uit met de bovenste twee knoppen in de zijbalk.",
+        "Open de assistent, live preview en runtime wanneer je ze nodig hebt. Elk paneel heeft eigen scrollruimte.",
+        "Stel in de projectchat vragen over de hele resource. Bekijk en pas samenhangende wijzigingen voor meerdere bestanden in één review toe.",
+        "Lees ondersteunde code met syntaxkleuren en zie de cursorpositie, bestandstaal en opslagstatus in de editor."
+      ]
+    },
     {
       "version": "0.7.0",
       "changes": [
