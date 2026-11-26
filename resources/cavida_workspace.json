@@ -1,11 +1,19 @@
 {
   "resource": "cavida_workspace",
-  "version": "0.6.1",
-  "tag": "v0.6.1",
+  "version": "0.6.2",
+  "tag": "v0.6.2",
   "status": "stable",
-  "sha256": "567294b147cdd5230f1c01896f68c9ebaab305480e549724148eb071623d4c0b",
-  "signature": "99lCpVL/pZM/aJaCGFH8ou7oGnSN3qSSldR2kCjBniXLbEUwIuyWAfWeoqt/1Teq5bfXzhz+mn7Ou/wLD9ksAg==",
+  "sha256": "26d438b4640585caa796aca57b081b669c99e4434059a64a600db165ce7cd61a",
+  "signature": "h5O8qQf3jUV9f9U+XxOw0TS1o0hvJoROMXCGWIW8D9mHxWCfOlxTiJqzYMFITPQJf3mBnVDxBABr+tSbrX/4AA==",
   "releases": [
+    {
+      "version": "0.6.2",
+      "changes": [
+        "Bekijk openbare changelogs, GitHub-releasenotities en centrale versiegeschiedenis per repository.",
+        "Zoek met Ctrl+K naar projecten, repositories en bestanden in de geopende repository.",
+        "Download individuele bestanden naar een gekozen map en open de lokale repository in Verkenner."
+      ]
+    },
     {
       "version": "0.6.1",
       "changes": [
