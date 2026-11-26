@@ -1,11 +1,20 @@
 {
   "resource": "cavida_workspace",
-  "version": "0.9.1",
-  "tag": "v0.9.1",
+  "version": "0.10.1",
+  "tag": "v0.10.1",
   "status": "stable",
-  "sha256": "bc32da45e8818bed94cc7fdcee514de88d97948a25e67926b237b46086ced6a7",
-  "signature": "VAwFdEz0e/C8SmrIOIV/szrgHT52EPFEncqW65aMpbE4cv9cDojs3cVChX9lrJ0MmvNgF7lY2j8xoi4yB+xnBg==",
+  "sha256": "1fa824f1f80fb568c73313ac03d2424ba498be9ab0d39aed483f7ddaea30aa10",
+  "signature": "AFTu1ryL9RHPiGD0IkgE2SaranqS1NWzUaa+ntivvyHYAJ8+ntmxE8PfeiKJ3SOeTI7YEM5JotdHgqRvb7F0Cw==",
   "releases": [
+    {
+      "version": "0.10.1",
+      "changes": [
+        "Limiteer syntaxmeldingen per controle zodat grote, ongeldige bestanden sneller worden verwerkt.",
+        "Controleer syntax tijdens het typen. Zie rode golfjes, foutuitleg bij aanwijzen, markeringen bij regelnummers, een problemenlijst en gerichte snelle fixes.",
+        "Zoek en vervang met opties voor hoofdletters, hele woorden en reguliere expressies. Navigeer naar regels, symbolen en bijbehorende haakjes.",
+        "Bewerk regels en selecties met editoracties voor commentaar, inspringing, dupliceren, verplaatsen, opschonen en hoofdletters."
+      ]
+    },
     {
       "version": "0.9.1",
       "changes": [
