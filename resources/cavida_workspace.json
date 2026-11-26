@@ -1,11 +1,19 @@
 {
   "resource": "cavida_workspace",
-  "version": "0.9.0",
-  "tag": "v0.9.0",
+  "version": "0.9.1",
+  "tag": "v0.9.1",
   "status": "stable",
-  "sha256": "09a75bce6c056146a5bc8af1ee6f3f23206eb243ad8cb9fb22a8611fc1edb542",
-  "signature": "NuLtsjtChG/w5xtlr8S72t0f+YJs6DqX6t2z1Q6QX8tf45wFsKvRnGmc0jj1qyFKIQ1QvjqQzFEQi877nej3Aw==",
+  "sha256": "bc32da45e8818bed94cc7fdcee514de88d97948a25e67926b237b46086ced6a7",
+  "signature": "VAwFdEz0e/C8SmrIOIV/szrgHT52EPFEncqW65aMpbE4cv9cDojs3cVChX9lrJ0MmvNgF7lY2j8xoi4yB+xnBg==",
   "releases": [
+    {
+      "version": "0.9.1",
+      "changes": [
+        "Typ @ voor mensen en # voor projecten of todo’s. Kies een suggestie met de muis of met de pijltjes en Enter.",
+        "Gebruik ingebouwde snippets voor FiveM, Qbox, Cavida Bridge en webtalen. HTML-tags sluiten automatisch.",
+        "Stel je thema, editorlettergrootte, startpagina en badge voor vermeldingen persoonlijk in."
+      ]
+    },
     {
       "version": "0.9.0",
       "changes": [
