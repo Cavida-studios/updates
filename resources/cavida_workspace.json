@@ -1,11 +1,17 @@
 {
   "resource": "cavida_workspace",
-  "version": "0.6.0",
-  "tag": "v0.6.0",
+  "version": "0.6.1",
+  "tag": "v0.6.1",
   "status": "stable",
-  "sha256": "abc9e56564334a6fb4e44c4cec9c6a294fe5b0b50dc0428065088555285e461a",
-  "signature": "+qZb4BOonUIUH1UyzMwwZ3KkhzDXnY8tJA6Tzc/y9MfhXT9OAen7a804GobpKVq55bBBW3fbyWs2oGOIvg1DCQ==",
+  "sha256": "567294b147cdd5230f1c01896f68c9ebaab305480e549724148eb071623d4c0b",
+  "signature": "99lCpVL/pZM/aJaCGFH8ou7oGnSN3qSSldR2kCjBniXLbEUwIuyWAfWeoqt/1Teq5bfXzhz+mn7Ou/wLD9ksAg==",
   "releases": [
+    {
+      "version": "0.6.1",
+      "changes": [
+        "Toon de lokale Vite- of Next.js-preview naast de code in Cavida. De devserver werkt de preview bij zodra je opslaat."
+      ]
+    },
     {
       "version": "0.6.0",
       "changes": [
